@@ -1,0 +1,18 @@
+name: Tests
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  job:
+    name: Build
+    runs-on: ubuntu-latest
+    container: klakegg/hugo:ext-ubuntu
+    steps:
+      - uses: actions/checkout@v3
+      - run: hugo version  # temporary
