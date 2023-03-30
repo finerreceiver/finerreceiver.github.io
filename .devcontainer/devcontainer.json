@@ -1,0 +1,21 @@
+{
+    "name": "finerreceiver.github.io",
+    "image": "klakegg/hugo:ext-ubuntu",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "github.vscode-pull-request-github",
+                "mhutchie.git-graph",
+                "streetsidesoftware.code-spell-checker"
+            ],
+            "settings": {
+                "files.insertFinalNewline": true,
+                "files.trimTrailingWhitespace": true,
+                "[markdown]": {
+                    "editor.insertSpaces": true,
+                    "editor.wordWrap": "on"
+                }
+            }
+        }
+    }
+}
