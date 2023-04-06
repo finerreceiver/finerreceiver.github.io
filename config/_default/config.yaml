@@ -8,6 +8,11 @@ enableEmoji: true
 enableRobotsTXT: true
 hasCJKLanguage: true
 removePathAccents: true
+permalinks:
+  authors: '/author/:slug/'
+  categories: '/category/:slug/'
+  publication_types: '/publication-type/:slug/'
+  tags: '/tag/:slug/'
 
 # Dependencies
 module:
