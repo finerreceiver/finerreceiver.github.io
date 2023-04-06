@@ -1,13 +1,16 @@
 main:
+  - name: News
+    url: post
+    weight: 10
   - name: Science
     url: science
-    weight: 10
+    weight: 20
   - name: Receiver
     url: receiver
-    weight: 20
+    weight: 30
   - name: Publication
     url: publication
-    weight: 30
+    weight: 40
   - name: FAQ
     url: faq
-    weight: 40
+    weight: 50
