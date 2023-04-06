@@ -11,6 +11,7 @@ removePathAccents: true
 permalinks:
   authors: '/author/:slug/'
   categories: '/category/:slug/'
+  page: '/:slug'
   publication_types: '/publication-type/:slug/'
   tags: '/tag/:slug/'
 
