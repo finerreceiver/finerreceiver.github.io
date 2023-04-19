@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages | FINER</title><link>https://finerreceiver.github.io/page/</link><atom:link href="https://finerreceiver.github.io/page/index.xml" rel="self" type="application/rss+xml"/><description>Pages</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Apr 2023 16:26:33 +0000</lastBuildDate><image><url>https://finerreceiver.github.io/media/icon_hub1a5604f10bf9ccd80c03df72d2beb4a_152419_512x512_fill_box_center_3.png</url><title>Pages</title><link>https://finerreceiver.github.io/page/</link></image><item><title>FAQ</title><link>https://finerreceiver.github.io/faq/</link><pubDate>Thu, 06 Apr 2023 16:26:33 +0000</pubDate><guid>https://finerreceiver.github.io/faq/</guid><description>&lt;ul>
+&lt;li>Question 1
+&lt;ul>
+&lt;li>Answer 1&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Receiver</title><link>https://finerreceiver.github.io/receiver/</link><pubDate>Thu, 06 Apr 2023 16:26:29 +0000</pubDate><guid>https://finerreceiver.github.io/receiver/</guid><description>&lt;h2 id="specifications-summary-as-of-2022-june">Specifications summary (as of 2022 June)&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>General&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Number of bands&lt;/td>
+&lt;td>2 (Band 4+5 and 6+7)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Number of beams per band&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Number of polarizations per band&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Number of sidebands per band&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Spec&lt;/th>
+&lt;th>Low Frequency Band&lt;/th>
+&lt;th>High Frequency Band&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Radio frequency&lt;/td>
+&lt;td>120−210 GHz&lt;/td>
+&lt;td>210−350 GHz&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Radio frequency&lt;/td>
+&lt;td>4-20.48 GHz&lt;/td>
+&lt;td>4-20.48 GHz&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>System noise temperature&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="hardware-system-overview">Hardware system overview&lt;/h2>
+&lt;p>FINER consists of two SIS receivers.&lt;/p>
+&lt;h3 id="optics">Optics&lt;/h3>
+&lt;p>Single beam.&lt;/p>
+&lt;h3 id="front-end-receiver">Front-end receiver&lt;/h3>
+&lt;p>The front-end receiver exploits the high critical current density SIS mixer technology (Kojima et al. 2017, 2020) for ALMA 2 (future ALMA), which allows us to have a wide instantaneous frequency coverage.&lt;/p>
+&lt;h3 id="back-end-spectrometer">Back-end spectrometer&lt;/h3>
+&lt;p>Digital spectrometer (DRS4, ELECS Inc.). Analog IF input is digitized by a set of 3-bit 20.48 GSa/s analog-to-digital converters (ADCs), each of which offers a 10.24 GHz bandwidth with a 20 MHz spectral resolution.&lt;/p>
+&lt;p>High-resolution spectroscopy is offered by the array of 2.5-GHz digital spectrometers, XFFTS (RPG).&lt;/p>
+&lt;h2 id="software-system-overview">Software system overview&lt;/h2>
+&lt;h3 id="control-software">Control software&lt;/h3>
+&lt;h3 id="reduction-software">Reduction software&lt;/h3>
+&lt;h3 id="data-format">Data format&lt;/h3>
+&lt;h2 id="technical-documentation">Technical documentation&lt;/h2></description></item><item><title>Science</title><link>https://finerreceiver.github.io/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/science/</guid><description>&lt;h2 id="galaxy-formation">Galaxy formation&lt;/h2>
+&lt;h3 id="background-galaxy-formation-in-the-epoch-of-reionization-and-beyond">Background: Galaxy formation in the epoch of reionization and beyond&lt;/h3>
+&lt;p>How and when the first galaxies form in the earliest Universe is one of the most fundamental questions in modern astronomy. The pristine materials in the early universe cooled down to form neutral hydrogen at redshift z ~ 1000 or 380k years after the Big Bang. Once first stars and galaxies are born, however, the hydrogen gas in the intergalactic space is ʻreionizedʼ by hydrogen-ionizing photons from the hot, massive stars. This so-called cosmic reionization is indirect evidence for the birth of the first luminous objects. In recent years, Planck satellite has reported that cosmic reionization occurred in the period centered at redshift z = 7.8 (660 million years after the Big Bang, Planck Collaboration 2018), whereas more than 100 galaxy candidates have been identified with Hubble even before the period (e.g., Bouwens et al. 2018, see recent achievements with JWST), meaning that we are likely witnessing the birth of the earliest galaxies in the universe.&lt;/p>
+&lt;p>In particular, finding massive galaxies in the era is difficult but is expected to offer unique information on galaxy formation, because the probability of finding them (i.e., volume density or luminosity function) depends on cosmic structure formation models. Then, the key questions we are trying to address in this research are&lt;/p>
+&lt;ul>
+&lt;li>when massive galaxies emerge,&lt;/li>
+&lt;li>how common they are in the pre-reionization era,&lt;/li>
+&lt;li>what controls their growth.&lt;/li>
+&lt;/ul>
+&lt;p>It is, however, difficult to confirm galaxy &amp;ldquo;candidates&amp;rdquo; in the era; in general, identifying an object as a galaxy and determining its physical properties begin with spectroscopy of atomic or molecular spectral lines. But the combination of bright spectral lines and a sensitive instrument that are sufficient for detection of a galaxy even in the furthest universe is very limited.&lt;/p>
+&lt;h3 id="key-science-goals">Key science goals&lt;/h3>
+&lt;p>In this study, we aim for a sensitive spectroscopic survey of galaxies in the pre-reionization era using the far-infrared fine-structure lines, [O III] 88 μm and [C II] 158 μm, that are demonstrated to be bright (Inoue et al. 2016), based on our novel millimeter and submillimeter-wave receiver, FINER, for Large Millimeter Telescope (LMT). We also aim to elucidate their physical properties.&lt;/p>
+&lt;h3 id="how-finer-helps">How FINER helps?&lt;/h3>
+&lt;p>FINER offers an instantaneous bandwidth 5 times wider than ALMA, while achieving the same sensitivity as ALMA. LMT-FINER will provide 40% of ALMAʼs light-collecting area, a similar atmospheric transmittance to ALMA, and a 5 times wider bandwidth than ALMA. This offers the most sensitive spectral-scanning capability among millimeter and submillimeter telescopes in the northern hemisphere.&lt;/p>
+&lt;h2 id="further-cases">Further cases&lt;/h2>
+&lt;p>On top of that, FINER also offers a unique capability for broader science cases as follows.&lt;/p>
+&lt;ul>
+&lt;li>Solar system&lt;/li>
+&lt;li>Interstellar medium&lt;/li>
+&lt;li>Star formation&lt;/li>
+&lt;li>Nearby galaxies&lt;/li>
+&lt;li>Distant submillimeter-bright galaxies&lt;/li>
+&lt;/ul></description></item></channel></rss>
