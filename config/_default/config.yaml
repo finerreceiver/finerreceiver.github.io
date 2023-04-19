@@ -2,7 +2,7 @@
 title: FINER
 baseURL: https://finerreceiver.github.io/
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 enableGitInfo: false
 enableEmoji: true
 enableRobotsTXT: true
