@@ -11,7 +11,7 @@ design:
 content:
   slides:
     - title: FINER
-      content: Far-infrared Nebular Emission Receiver for Large Millimeter Telescope
+      content: Far-Infrared Nebular Emission Receiver for Large Millimeter Telescope
       align: left
       background:
         media: cover.jpg
