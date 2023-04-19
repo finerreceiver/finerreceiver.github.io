@@ -4,7 +4,33 @@
 &lt;li>Answer 1&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Receiver</title><link>https://finerreceiver.github.io/en/receiver/</link><pubDate>Thu, 06 Apr 2023 16:26:29 +0000</pubDate><guid>https://finerreceiver.github.io/en/receiver/</guid><description/></item><item><title>Science</title><link>https://finerreceiver.github.io/en/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/en/science/</guid><description>&lt;h2 id="galaxy-formation">Galaxy formation&lt;/h2>
+&lt;/ul></description></item><item><title>Receiver</title><link>https://finerreceiver.github.io/en/receiver/</link><pubDate>Thu, 06 Apr 2023 16:26:29 +0000</pubDate><guid>https://finerreceiver.github.io/en/receiver/</guid><description>&lt;h2 id="specifications-summary-as-of-2022-june">Specifications summary (as of 2022 June)&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>General&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Number of bands: 2 (Band 4+5 and 6+7)&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Number of beams per band: 1&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Number of polarizations per band: 2&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Number of sidebands per band: 2&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Science</title><link>https://finerreceiver.github.io/en/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/en/science/</guid><description>&lt;h2 id="galaxy-formation">Galaxy formation&lt;/h2>
 &lt;h3 id="background-galaxy-formation-in-the-epoch-of-reionization-and-beyond">Background: Galaxy formation in the epoch of reionization and beyond&lt;/h3>
 &lt;p>How and when the first galaxies form in the earliest Universe is one of the most fundamental questions in modern astronomy. The pristine materials in the early universe cooled down to form neutral hydrogen at redshift z ~ 1000 or 380k years after the Big Bang. Once first stars and galaxies are born, however, the hydrogen gas in the intergalactic space is ʻreionizedʼ by hydrogen-ionizing photons from the hot, massive stars. This so-called cosmic reionization is indirect evidence for the birth of the first luminous objects. In recent years, Planck satellite has reported that cosmic reionization occurred in the period centered at redshift z = 7.8 (660 million years after the Big Bang, Planck Collaboration 2018), whereas more than 100 galaxy candidates have been identified with Hubble even before the period (e.g., Bouwens et al. 2018, see recent achievements with JWST), meaning that we are likely witnessing the birth of the earliest galaxies in the universe.&lt;/p>
 &lt;p>In particular, finding massive galaxies in the era is difficult but is expected to offer unique information on galaxy formation, because the probability of finding them (i.e., volume density or luminosity function) depends on cosmic structure formation models. Then, the key questions we are trying to address in this research are&lt;/p>
