@@ -1,6 +1,6 @@
-ja:
-  languageCode: ja
-  contentDir: content/ja
 en:
   languageCode: en-us
   contentDir: content/en
+ja:
+  languageCode: ja
+  contentDir: content/ja
