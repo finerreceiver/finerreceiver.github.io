@@ -4,4 +4,41 @@
 &lt;li>回答 1&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Receiver</title><link>https://finerreceiver.github.io/ja/receiver/</link><pubDate>Thu, 06 Apr 2023 16:26:29 +0000</pubDate><guid>https://finerreceiver.github.io/ja/receiver/</guid><description/></item><item><title>Science</title><link>https://finerreceiver.github.io/ja/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/ja/science/</guid><description/></item></channel></rss>
+&lt;/ul></description></item><item><title>Receiver</title><link>https://finerreceiver.github.io/ja/receiver/</link><pubDate>Thu, 06 Apr 2023 16:26:29 +0000</pubDate><guid>https://finerreceiver.github.io/ja/receiver/</guid><description/></item><item><title>Science</title><link>https://finerreceiver.github.io/ja/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/ja/science/</guid><description>&lt;h2 id="galaxy-formation">Galaxy formation&lt;/h2>
+&lt;h3 id="background-galaxy-formation-in-the-epoch-of-reionization-and-beyond">Background: Galaxy formation in the epoch of reionization and beyond&lt;/h3>
+&lt;p>宇宙で最初の銀河はいつどのように形成されたのだろうか。この疑問は、現代の天文学における最も基本的な問題の一つである。
+初期宇宙の始原的な物質が冷えて中性水素になったのは、ビッグバンから38万年後の赤方偏移 &lt;em>z&lt;/em> ~ 1000 のときである。
+しかし、最初の星や銀河が誕生すると、銀河間空間の水素ガスは、高温・大質量の星からの電離光子によってʻ再電離ʼされる。
+この宇宙再電離は、最初の光り輝く天体が誕生したことを示す間接的な証拠となる。
+近年、&lt;em>Planck&lt;/em>衛星が赤方偏移 &lt;em>z&lt;/em> = 7.8 （ビッグバンから6億6000万年後、&lt;em>Planck&lt;/em> Collaboration 2018）を
+中心とする期間に宇宙再電離が起こったことを報告しているが、それ以前にも100以上の銀河候補が&lt;em>Hubble&lt;/em>で確認されており
+（例えば、Bouwens et al. 2018、最近のJWSTによる成果参照）、宇宙で最も古い銀河の誕生を目撃したことになるだろうということだ。&lt;/p>
+&lt;p>とりわけ、この宇宙再電離前期に大質量銀河を見つけることは難しい。
+なぜなら、その確率（体積密度や光度関数）が宇宙構造形成モデルに依存するため、銀河形成に関する独自の情報を提供すると期待される。
+では、この研究で私たちが解決しようとしている重要な疑問はというと&lt;/p>
+&lt;ul>
+&lt;li>いつ大質量銀河が出現したか&lt;/li>
+&lt;li>大質量銀河がどれだけ多く存在するのか、&lt;/li>
+&lt;li>その成長をコントロールするものはなにか&lt;/li>
+&lt;/ul>
+&lt;p>しかし、時代的に銀河の「候補」を確認することは難しい。
+一般に、銀河であることを同定し、その物理的性質を調べるには、原子や分子のスペクトル線の分光観測が重要である。
+しかし、最遠方の宇宙でさえも検出が可能な明るいスペクトル線、
+およびそれらを検出するための高感度な観測装置の組み合わせは、きわめて限られているのが現状である。&lt;/p>
+&lt;h3 id="key-science-goals">Key science goals&lt;/h3>
+&lt;p>そこで本研究では、メキシコで稼働を始めた大型ミリ波望遠鏡（LMT）のための新しいミリ波・サブミリ波受信機FINERを開発し、
+近年その有用性に注目が集まる遠赤外線微細構造線 [O III] 88μm と [C II] 158μm 輝線（Inoue et al 2016）
+を用いて、宇宙再電離前期の銀河の高感度分光観測を目指す。また、その物理的性質の解明も目指す。&lt;/p>
+&lt;h3 id="how-finer-helps">How FINER helps?&lt;/h3>
+&lt;p>FINERは、ALMAと同等の感度を実現しながら、ALMAの5倍の同時分光帯域幅をもたらす。
+LMT-FINERは、ALMAの40％の集光面積、ALMAと同等の大気透過率、ALMAの5倍の帯域幅を実現する。
+これにより、北半球のミリ波・サブミリ波望遠鏡の中で最も観測効率の高い輝線分光探査を可能にする。&lt;/p>
+&lt;h2 id="further-cases">Further cases&lt;/h2>
+&lt;p>さらに、FINERは、以下のさまざまな研究に利用が可能である。&lt;/p>
+&lt;ul>
+&lt;li>太陽系内天体&lt;/li>
+&lt;li>星間物質、アストロケミストリー(星間化学)&lt;/li>
+&lt;li>星形成&lt;/li>
+&lt;li>近傍銀河の輝線分光撮像&lt;/li>
+&lt;li>遠方のサブミリ波銀河（爆発的星形成銀河）&lt;/li>
+&lt;/ul></description></item></channel></rss>
