@@ -11,5 +11,11 @@ featured: false
 draft: false
 ---
 
-- Question 1
-    - Answer 1
+### How can I use FINER?
+- Answer
+
+### When does FINER come online?
+- Answer
+
+### Can I join FINER development?
+- Answer
