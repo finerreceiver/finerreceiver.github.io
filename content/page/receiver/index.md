@@ -26,27 +26,25 @@ draft: false
 | System noise temperature | | |
 
 
-## Hardware system overview
+## System overview
 FINER consists of two SIS receivers.
+
+![blockdiagram](blockdiagram.png)
+**Figure. Block diagram.**
 
 ### Optics
 Single beam.
 
 ### Front-end receiver
-The front-end receiver exploits the high critical current density SIS mixer technology (Kojima et al. 2017, 2020) for ALMA 2 (future ALMA), which allows us to have a wide instantaneous frequency coverage.
+The front-end receiver exploits the high critical current density SIS mixer technology ([Kojima et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ITTST...7..694K/), [2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...640L...9K/)) for ALMA 2 (future ALMA), which allows us to have a wide instantaneous frequency coverage.
 
 ### Back-end spectrometer
-Digital spectrometer (DRS4, ELECS Inc.). Analog IF input is digitized by a set of 3-bit 20.48 GSa/s analog-to-digital converters (ADCs), each of which offers a 10.24 GHz bandwidth with a 20 MHz spectral resolution.
+FINER has two sets of digital spectrometers with different spectral resolutions and bandwidths. 
 
-High-resolution spectroscopy is offered by the array of 2.5-GHz digital spectrometers, XFFTS (RPG).
+- Wide-band spectrometers (DRS4, ELECS Inc.). Analog IF input is digitized by a set of 3-bit 20.48 GSa/s analog-to-digital converters (ADCs), each of which offers a 10.24 GHz bandwidth with a 20 MHz spectral resolution.
+- High-resolution spectrometers (XFFTS, RPG). spectroscopy is offered by the array of 2.5-GHz digital spectrometers, XFFTS (RPG).
 
-## Software system overview
+### Data analysis software & Data format
 
-### Control software
-
-### Reduction software
-
-### Data format
-
-## Technical documentation
+## Technical document
 
