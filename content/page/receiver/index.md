@@ -48,3 +48,9 @@ FINER has two sets of digital spectrometers with different spectral resolutions 
 
 ## Technical document
 
+| Document | Version | Download |
+|---|---|---|
+| Proposal | 1-May-2023 | (in prep.) |
+| Overview | 1-May-2023 | (in prep.) |
+
+
