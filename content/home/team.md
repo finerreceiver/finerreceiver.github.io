@@ -41,7 +41,5 @@ design:
 - Yuki Yoshimura (The University of Tokyo)
 ## Contact
 - Yoichi Tamura
-  - Department of Physics
-  Graduate School of Science
-  Nagoya University
+  - Department of Physics, Nagoya University
   - Email: ytamura (at) nagoya-u.jp

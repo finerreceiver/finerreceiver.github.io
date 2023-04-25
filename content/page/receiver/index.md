@@ -27,13 +27,13 @@ draft: false
 
 
 ## System overview
-FINER consists of two SIS receivers.
+FINER consists of low- and high-frequency band SIS receivers, each of which covers the ALMA's Band 4+5 (120-210 GHz) and Band 6+7 (210-350 GHz), respectively. The front-end receivers are followed by the back-end spectrometers with wide-band and high-dispersion modes.
 
 ![blockdiagram](blockdiagram.png)
 **Figure. Block diagram.**
 
 ### Optics
-Single beam.
+A dual-polarization single beam from each receiver band is coupled with the LMT's optics. The FINER warm optics is planed to have a beam-switching mechanism which allows a quick (~1 Hz) position switching for atmospheric removal. The spatial resolution (i.e. PSF size) is 7 arcsec X (frequency/200 GHz)^-1, depending on observing frequency.
 
 ### Front-end receiver
 The front-end receiver exploits the high critical current density SIS mixer technology ([Kojima et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ITTST...7..694K/), [2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...640L...9K/)) for ALMA 2 (future ALMA), which allows us to have a wide instantaneous frequency coverage.
