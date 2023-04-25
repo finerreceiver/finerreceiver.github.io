@@ -39,3 +39,9 @@ design:
 - Hideki Umehata (Nagoya University)
 - Teppei Yonetsu (Osaka Metropolitan University)
 - Yuki Yoshimura (The University of Tokyo)
+## Contact
+Yoichi Tamura
+Department of Physics
+Graduate School of Science
+Nagoya University
+Email: ytamura (at) nagoya-u.jp
