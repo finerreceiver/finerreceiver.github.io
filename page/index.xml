@@ -62,20 +62,33 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h2 id="hardware-system-overview">Hardware system overview&lt;/h2>
+&lt;h2 id="system-overview">System overview&lt;/h2>
 &lt;p>FINER consists of two SIS receivers.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="blockdiagram" srcset="
+/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_6bc290762f6ce6436e738eb1949b6804.webp 400w,
+/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_2a8315a46d7a25aab47f5d68c0a8dff7.webp 760w,
+/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_1200x1200_fit_q75_h2_box_3.webp 1200w"
+src="https://finerreceiver.github.io/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_6bc290762f6ce6436e738eb1949b6804.webp"
+width="760"
+height="343"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;strong>Figure. Block diagram.&lt;/strong>&lt;/p>
 &lt;h3 id="optics">Optics&lt;/h3>
 &lt;p>Single beam.&lt;/p>
 &lt;h3 id="front-end-receiver">Front-end receiver&lt;/h3>
-&lt;p>The front-end receiver exploits the high critical current density SIS mixer technology (Kojima et al. 2017, 2020) for ALMA 2 (future ALMA), which allows us to have a wide instantaneous frequency coverage.&lt;/p>
+&lt;p>The front-end receiver exploits the high critical current density SIS mixer technology (&lt;a href="https://ui.adsabs.harvard.edu/abs/2017ITTST...7..694K/" target="_blank" rel="noopener">Kojima et al. 2017&lt;/a>, &lt;a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...640L...9K/" target="_blank" rel="noopener">2020&lt;/a>) for ALMA 2 (future ALMA), which allows us to have a wide instantaneous frequency coverage.&lt;/p>
 &lt;h3 id="back-end-spectrometer">Back-end spectrometer&lt;/h3>
-&lt;p>Digital spectrometer (DRS4, ELECS Inc.). Analog IF input is digitized by a set of 3-bit 20.48 GSa/s analog-to-digital converters (ADCs), each of which offers a 10.24 GHz bandwidth with a 20 MHz spectral resolution.&lt;/p>
-&lt;p>High-resolution spectroscopy is offered by the array of 2.5-GHz digital spectrometers, XFFTS (RPG).&lt;/p>
-&lt;h2 id="software-system-overview">Software system overview&lt;/h2>
-&lt;h3 id="control-software">Control software&lt;/h3>
-&lt;h3 id="reduction-software">Reduction software&lt;/h3>
-&lt;h3 id="data-format">Data format&lt;/h3>
-&lt;h2 id="technical-documentation">Technical documentation&lt;/h2></description></item><item><title>Science</title><link>https://finerreceiver.github.io/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/science/</guid><description>&lt;h2 id="galaxy-formation">Galaxy formation&lt;/h2>
+&lt;p>FINER has two sets of digital spectrometers with different spectral resolutions and bandwidths.&lt;/p>
+&lt;ul>
+&lt;li>Wide-band spectrometers (DRS4, ELECS Inc.). Analog IF input is digitized by a set of 3-bit 20.48 GSa/s analog-to-digital converters (ADCs), each of which offers a 10.24 GHz bandwidth with a 20 MHz spectral resolution.&lt;/li>
+&lt;li>High-resolution spectrometers (XFFTS, RPG). spectroscopy is offered by the array of 2.5-GHz digital spectrometers, XFFTS (RPG).&lt;/li>
+&lt;/ul>
+&lt;h3 id="data-analysis-software--data-format">Data analysis software &amp;amp; Data format&lt;/h3>
+&lt;h2 id="technical-document">Technical document&lt;/h2></description></item><item><title>Science</title><link>https://finerreceiver.github.io/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/science/</guid><description>&lt;h2 id="galaxy-formation">Galaxy formation&lt;/h2>
 &lt;h3 id="background-galaxy-formation-in-the-epoch-of-reionization-and-beyond">Background: Galaxy formation in the epoch of reionization and beyond&lt;/h3>
 &lt;p>How and when the first galaxies form in the earliest Universe is one of the most fundamental questions in modern astronomy. The pristine materials in the early universe cooled down to form neutral hydrogen at redshift z ~ 1000 or 380k years after the Big Bang. Once first stars and galaxies are born, however, the hydrogen gas in the intergalactic space is ʻreionizedʼ by hydrogen-ionizing photons from the hot, massive stars. This so-called cosmic reionization is indirect evidence for the birth of the first luminous objects. In recent years, Planck satellite has reported that cosmic reionization occurred in the period centered at redshift z = 7.8 (660 million years after the Big Bang, Planck Collaboration 2018), whereas more than 100 galaxy candidates have been identified with Hubble even before the period (e.g., Bouwens et al. 2018, see recent achievements with JWST), meaning that we are likely witnessing the birth of the earliest galaxies in the universe.&lt;/p>
 &lt;p>In particular, finding massive galaxies in the era is difficult but is expected to offer unique information on galaxy formation, because the probability of finding them (i.e., volume density or luminosity function) depends on cosmic structure formation models. Then, the key questions we are trying to address in this research are&lt;/p>
