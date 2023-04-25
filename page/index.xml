@@ -79,7 +79,6 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;strong>Figure. Block diagram.&lt;/strong>&lt;/p>
 &lt;h3 id="optics">Optics&lt;/h3>
 &lt;p>A dual-polarization single beam from each receiver band is coupled with the LMT&amp;rsquo;s optics. The FINER warm optics is planed to have a beam-switching mechanism which allows a quick (~1 Hz) position switching for atmospheric removal. The spatial resolution (i.e. PSF size) is 7 arcsec X (frequency/200 GHz)^-1, depending on observing frequency.&lt;/p>
-&lt;p>$$\pi$$&lt;/p>
 &lt;h3 id="front-end-receiver">Front-end receiver&lt;/h3>
 &lt;p>The front-end receiver exploits the high critical current density SIS mixer technology (&lt;a href="https://ui.adsabs.harvard.edu/abs/2017ITTST...7..694K/" target="_blank" rel="noopener">Kojima et al. 2017&lt;/a>, &lt;a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...640L...9K/" target="_blank" rel="noopener">2020&lt;/a>) for ALMA 2 (future ALMA), which allows us to have a wide instantaneous frequency coverage.&lt;/p>
 &lt;h3 id="back-end-spectrometer">Back-end spectrometer&lt;/h3>
