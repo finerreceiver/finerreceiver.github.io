@@ -12,7 +12,9 @@ jobs:
     container: klakegg/hugo:ext-ubuntu
     steps:
       - uses: actions/checkout@v3
-      - run: hugo --minify
+      - run: |
+          hugo --minify
+          cp ./assets/google64f9f7d71c0134cc.html ./public
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
