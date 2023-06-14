@@ -23,3 +23,9 @@ footer:
       allow_derivatives: true
       share_alike: false
       allow_commercial: true
+marketing:
+  seo:
+    site_type: ResearchOrganization
+    org_name: 'LMT-FINER: Far-Infrared Nebular Emission Receiver for Large Millimeter Telescope'
+    description: 'Project website of LMT-FINER'
+
