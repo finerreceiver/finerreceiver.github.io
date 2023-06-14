@@ -12,7 +12,12 @@ jobs:
   job:
     name: Build
     runs-on: ubuntu-latest
-    container: klakegg/hugo:ext-ubuntu
     steps:
       - uses: actions/checkout@v3
-      - run: hugo
+        with:
+          fetch-depth: 0
+      - uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.111.3'
+          extended: true
+      - run: hugo --minify
