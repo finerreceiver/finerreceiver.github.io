@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages | FINER</title><link>https://finerreceiver.github.io/ja/page/</link><atom:link href="https://finerreceiver.github.io/ja/page/index.xml" rel="self" type="application/rss+xml"/><description>Pages</description><generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Thu, 06 Apr 2023 16:26:33 +0000</lastBuildDate><image><url>https://finerreceiver.github.io/media/icon_hu0c51645294fa68a6522196407a84e3c7_35610_512x512_fill_box_center_3.png</url><title>Pages</title><link>https://finerreceiver.github.io/ja/page/</link></image><item><title>FAQ</title><link>https://finerreceiver.github.io/ja/faq/</link><pubDate>Thu, 06 Apr 2023 16:26:33 +0000</pubDate><guid>https://finerreceiver.github.io/ja/faq/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages | FINER</title><link>https://finerreceiver.github.io/ja/page/</link><atom:link href="https://finerreceiver.github.io/ja/page/index.xml" rel="self" type="application/rss+xml"/><description>Pages</description><generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Thu, 06 Apr 2023 16:26:33 +0000</lastBuildDate><image><url>https://finerreceiver.github.io/media/icon_hu0c51645294fa68a6522196407a84e3c7_35610_512x512_fill_box_center_3.png</url><title>Pages</title><link>https://finerreceiver.github.io/ja/page/</link></image><item><title>FAQ | よくある質問</title><link>https://finerreceiver.github.io/ja/faq-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F/</link><pubDate>Thu, 06 Apr 2023 16:26:33 +0000</pubDate><guid>https://finerreceiver.github.io/ja/faq-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F/</guid><description>&lt;ul>
 &lt;li>質問 1
 &lt;ul>
 &lt;li>回答 1&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Science</title><link>https://finerreceiver.github.io/ja/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/ja/science/</guid><description>&lt;h2 id="galaxy-formation">Galaxy formation&lt;/h2>
-&lt;h3 id="background-galaxy-formation-in-the-epoch-of-reionization-and-beyond">Background: Galaxy formation in the epoch of reionization and beyond&lt;/h3>
+&lt;/ul></description></item><item><title>Science | 研究の内容</title><link>https://finerreceiver.github.io/ja/science-%E7%A0%94%E7%A9%B6%E3%81%AE%E5%86%85%E5%AE%B9/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/ja/science-%E7%A0%94%E7%A9%B6%E3%81%AE%E5%86%85%E5%AE%B9/</guid><description>&lt;h2 id="galaxy-formation--銀河形成">Galaxy formation | 銀河形成&lt;/h2>
+&lt;h3 id="研究の背景-宇宙再電離期と銀河の形成">研究の背景: 宇宙再電離期と銀河の形成&lt;/h3>
 &lt;p>宇宙で最初の銀河はいつどのように形成されたのでしょうか。
 この疑問は、現代の天文学における最も基本的な問題の一つに数えられます。
 初期宇宙の始原的な物質が冷えて中性水素になったのは、ビッグバンから38万年後（赤方偏移で言えば &lt;em>z&lt;/em> ~ 1000）の頃です。
@@ -33,16 +33,16 @@
 一般に、銀河であることを同定し、その物理的性質を調べるには、原子や分子のスペクトル線の分光観測が重要です。
 しかし、最遠方の宇宙でさえも検出が可能な明るいスペクトル線、
 およびそれらを検出するための高感度な観測装置の組み合わせは、きわめて限られているのが現状です。&lt;/p>
-&lt;h3 id="key-science-goals">Key science goals&lt;/h3>
+&lt;h3 id="研究のゴール">研究のゴール&lt;/h3>
 &lt;p>そこで本研究では、メキシコで稼働を始めた大型ミリ波望遠鏡（LMT）のための新しいミリ波・サブミリ波受信機FINERを開発し、
 近年その有用性に注目が集まる遠赤外線微細構造線 [O III] 88μm と [C II] 158μm 輝線（Inoue et al 2016）
 を用いて、宇宙再電離前期の銀河の高感度分光観測を目指します。
 また、こうしたスペクトルをもとに、検出された銀河の物理的性質の解明も目指します。&lt;/p>
-&lt;h3 id="how-finer-helps">How FINER helps?&lt;/h3>
+&lt;h3 id="なぜ-finer-が必要なのか">なぜ FINER が必要なのか&lt;/h3>
 &lt;p>FINERは、ALMAと同等の感度を実現しながら、ALMAの5倍の同時分光帯域幅をもたらします。
 LMT-FINERは、ALMAの40％の集光面積、ALMAと同等の大気透過率、ALMAの5倍の帯域幅を実現します。
 これにより、北半球のミリ波・サブミリ波望遠鏡の中で最も観測効率の高い輝線分光探査を可能にします。&lt;/p>
-&lt;h2 id="further-cases">Further cases&lt;/h2>
+&lt;h2 id="さらなる天文学惑星科学へのインパクトも">さらなる天文学・惑星科学へのインパクトも&lt;/h2>
 &lt;p>さらに、FINERは、以下のさまざまな研究に利用が可能です。&lt;/p>
 &lt;ul>
 &lt;li>太陽系内天体&lt;/li>
