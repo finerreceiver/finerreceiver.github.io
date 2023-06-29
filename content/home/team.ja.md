@@ -38,7 +38,7 @@ design:
 - 梅畑 豪紀 （名古屋大学 特任助教/YLCフェロー）
 - [橋本 拓也](http://thashimoto.weebly.com/) （筑波大学 助教/卓越研究員）
 - 廿日出 文洋 （国立天文台 准教授）
-- [トム バックス （BAKX, Tom J.L.C.）](https://tombak.xyz/index.html) （チャルマース工科大学）
+- [トム バックス （BAKX, Tom J.L.C.）](https://tombak.xyz/) （チャルマース工科大学）
 - [播金 優一](https://sites.google.com/view/yuichi-harikane/%E3%83%9B%E3%83%BC%E3%83%A0) （東京大学 助教）
 - 札本 佳伸 （早稲田大学/国立天文台 研究員）
 - 松田 有一 （国立天文台 助教）
