@@ -1,5 +1,5 @@
 ---
-title: "Science"
+title: "Science | 研究の内容"
 subtitle: ""
 summary: ""
 authors: []
@@ -10,9 +10,9 @@ featured: false
 draft: false
 ---
 
-## Galaxy formation
+## Galaxy formation | 銀河形成
 
-### Background: Galaxy formation in the epoch of reionization and beyond
+### 研究の背景: 宇宙再電離期と銀河の形成
 
 宇宙で最初の銀河はいつどのように形成されたのでしょうか。
 この疑問は、現代の天文学における最も基本的な問題の一つに数えられます。
@@ -44,19 +44,19 @@ draft: false
 しかし、最遠方の宇宙でさえも検出が可能な明るいスペクトル線、
 およびそれらを検出するための高感度な観測装置の組み合わせは、きわめて限られているのが現状です。
 
-### Key science goals
+### 研究のゴール
 そこで本研究では、メキシコで稼働を始めた大型ミリ波望遠鏡（LMT）のための新しいミリ波・サブミリ波受信機FINERを開発し、
 近年その有用性に注目が集まる遠赤外線微細構造線 [O III] 88μm と [C II] 158μm 輝線（Inoue et al 2016）
 を用いて、宇宙再電離前期の銀河の高感度分光観測を目指します。
 また、こうしたスペクトルをもとに、検出された銀河の物理的性質の解明も目指します。
 
-### How FINER helps?
+### なぜ FINER が必要なのか
 
 FINERは、ALMAと同等の感度を実現しながら、ALMAの5倍の同時分光帯域幅をもたらします。
 LMT-FINERは、ALMAの40％の集光面積、ALMAと同等の大気透過率、ALMAの5倍の帯域幅を実現します。
 これにより、北半球のミリ波・サブミリ波望遠鏡の中で最も観測効率の高い輝線分光探査を可能にします。
 
-## Further cases
+## さらなる天文学・惑星科学へのインパクトも
 
 さらに、FINERは、以下のさまざまな研究に利用が可能です。
 

@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "FAQ | よくある質問"
 subtitle: ""
 summary: ""
 authors: []
