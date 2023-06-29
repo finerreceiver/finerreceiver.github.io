@@ -4,7 +4,107 @@
 &lt;li>回答 1&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Science</title><link>https://finerreceiver.github.io/ja/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/ja/science/</guid><description>&lt;h2 id="研究の内容--遠方銀河探査と銀河形成">研究の内容 | 遠方銀河探査と銀河形成&lt;/h2>
+&lt;/ul></description></item><item><title>Receiver</title><link>https://finerreceiver.github.io/ja/receiver/</link><pubDate>Thu, 06 Apr 2023 16:26:29 +0000</pubDate><guid>https://finerreceiver.github.io/ja/receiver/</guid><description>&lt;h2 id="specifications-summary-as-of-2022-june">Specifications summary (as of 2022 June)&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>General&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Number of bands&lt;/td>
+&lt;td>2 (Band 4+5 and 6+7)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Number of beams per band&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Number of polarizations per band&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Number of sidebands per band&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Spec&lt;/th>
+&lt;th>Low Frequency Band&lt;/th>
+&lt;th>High Frequency Band&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Radio frequency&lt;/td>
+&lt;td>120−210 GHz&lt;/td>
+&lt;td>210−350 GHz&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Intermediate frequency&lt;/td>
+&lt;td>4-20.48 GHz&lt;/td>
+&lt;td>4-20.48 GHz&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Receiver noise temperature&lt;/td>
+&lt;td>45 K&lt;/td>
+&lt;td>75 K&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="system-overview">System overview&lt;/h2>
+&lt;p>FINER consists of low- and high-frequency band SIS receivers, each of which covers the ALMA&amp;rsquo;s Band 4+5 (120-210 GHz) and Band 6+7 (210-350 GHz), respectively. The front-end receivers are followed by the back-end spectrometers with wide-band and high-dispersion modes.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="blockdiagram" srcset="
+/ja/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_4ca1be54eacfc8229db8d0d0c45435ac.webp 400w,
+/ja/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_b25ddc110dd476371cfb73bb356adb43.webp 760w,
+/ja/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_1200x1200_fit_q75_h2_box_3.webp 1200w"
+src="https://finerreceiver.github.io/ja/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_4ca1be54eacfc8229db8d0d0c45435ac.webp"
+width="760"
+height="343"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;strong>Figure. Block diagram.&lt;/strong>&lt;/p>
+&lt;h3 id="optics">Optics&lt;/h3>
+&lt;p>A dual-polarization single beam from each receiver band is coupled with the LMT&amp;rsquo;s optics. The FINER warm optics is planed to have a beam-switching mechanism which allows a quick (~1 Hz) position switching for atmospheric removal. The spatial resolution (i.e. PSF size) is 7 arcsec X (frequency/200 GHz)^-1, depending on observing frequency.&lt;/p>
+&lt;h3 id="front-end-receiver">Front-end receiver&lt;/h3>
+&lt;p>The front-end receiver exploits the high critical current density SIS mixer technology (&lt;a href="https://ui.adsabs.harvard.edu/abs/2017ITTST...7..694K/" target="_blank" rel="noopener">Kojima et al. 2017&lt;/a>, &lt;a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...640L...9K/" target="_blank" rel="noopener">2020&lt;/a>) for ALMA 2 (wideband sensitivity upgrade, WSU), which allows us to have a wide instantaneous frequency coverage.&lt;/p>
+&lt;h3 id="back-end-spectrometer">Back-end spectrometer&lt;/h3>
+&lt;p>FINER has two sets of digital spectrometers with different spectral resolutions and bandwidths.&lt;/p>
+&lt;ul>
+&lt;li>Wide-band spectrometers (DRS4, ELECS Inc.). Analog IF input is digitized by a set of 3-bit 20.48 GSa/s analog-to-digital converters (ADCs), each of which offers a 10.24 GHz bandwidth with a 20 MHz spectral resolution.&lt;/li>
+&lt;li>High-resolution spectrometers (XFFTS, RPG). spectroscopy is offered by the array of 2.5-GHz digital spectrometers, XFFTS (RPG).&lt;/li>
+&lt;/ul>
+&lt;h3 id="data-analysis-software--data-format">Data analysis software &amp;amp; Data format&lt;/h3>
+&lt;h2 id="technical-document">Technical document&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Document&lt;/th>
+&lt;th>Version&lt;/th>
+&lt;th>Download&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Proposal&lt;/td>
+&lt;td>1-May-2023&lt;/td>
+&lt;td>(in prep.)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Overview&lt;/td>
+&lt;td>1-May-2023&lt;/td>
+&lt;td>(in prep.)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Science</title><link>https://finerreceiver.github.io/ja/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/ja/science/</guid><description>&lt;h2 id="研究の内容--遠方銀河探査と銀河形成">研究の内容 | 遠方銀河探査と銀河形成&lt;/h2>
 &lt;h3 id="研究の背景---銀河の形成と宇宙再電離">研究の背景 - 銀河の形成と宇宙再電離&lt;/h3>
 &lt;p>宇宙で最初の銀河はいつどのように形成されたのでしょうか。
 この疑問は、現代の天文学における最も基本的な問題の一つに数えられます。
