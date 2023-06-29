@@ -4,8 +4,8 @@
 &lt;li>回答 1&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Science | 研究の内容</title><link>https://finerreceiver.github.io/ja/science-%E7%A0%94%E7%A9%B6%E3%81%AE%E5%86%85%E5%AE%B9/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/ja/science-%E7%A0%94%E7%A9%B6%E3%81%AE%E5%86%85%E5%AE%B9/</guid><description>&lt;h2 id="galaxy-formation--銀河形成">Galaxy formation | 銀河形成&lt;/h2>
-&lt;h3 id="研究の背景-宇宙再電離期と銀河の形成">研究の背景: 宇宙再電離期と銀河の形成&lt;/h3>
+&lt;/ul></description></item><item><title>Science</title><link>https://finerreceiver.github.io/ja/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/ja/science/</guid><description>&lt;h2 id="研究の内容--遠方銀河探査と銀河形成">研究の内容 | 遠方銀河探査と銀河形成&lt;/h2>
+&lt;h3 id="研究の背景---銀河の形成と宇宙再電離">研究の背景 - 銀河の形成と宇宙再電離&lt;/h3>
 &lt;p>宇宙で最初の銀河はいつどのように形成されたのでしょうか。
 この疑問は、現代の天文学における最も基本的な問題の一つに数えられます。
 初期宇宙の始原的な物質が冷えて中性水素になったのは、ビッグバンから38万年後（赤方偏移で言えば &lt;em>z&lt;/em> ~ 1000）の頃です。
@@ -35,7 +35,7 @@
 およびそれらを検出するための高感度な観測装置の組み合わせは、きわめて限られているのが現状です。&lt;/p>
 &lt;h3 id="研究のゴール">研究のゴール&lt;/h3>
 &lt;p>そこで本研究では、メキシコで稼働を始めた大型ミリ波望遠鏡（LMT）のための新しいミリ波・サブミリ波受信機FINERを開発し、
-近年その有用性に注目が集まる遠赤外線微細構造線 [O III] 88μm と [C II] 158μm 輝線（Inoue et al 2016）
+近年その有用性に注目が集まる遠赤外線微細構造線 [O III] 88μm と [C II] 158μm 輝線（Inoue et al. 2016）
 を用いて、宇宙再電離前期の銀河の高感度分光観測を目指します。
 また、こうしたスペクトルをもとに、検出された銀河の物理的性質の解明も目指します。&lt;/p>
 &lt;h3 id="なぜ-finer-が必要なのか">なぜ FINER が必要なのか&lt;/h3>
