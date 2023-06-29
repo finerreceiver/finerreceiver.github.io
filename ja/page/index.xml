@@ -4,7 +4,7 @@
 &lt;li>回答 1&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Receiver</title><link>https://finerreceiver.github.io/ja/receiver/</link><pubDate>Thu, 06 Apr 2023 16:26:29 +0000</pubDate><guid>https://finerreceiver.github.io/ja/receiver/</guid><description>&lt;h2 id="specifications-summary-as-of-2022-june">Specifications summary (as of 2022 June)&lt;/h2>
+&lt;/ul></description></item><item><title>Receiver</title><link>https://finerreceiver.github.io/ja/receiver/</link><pubDate>Thu, 06 Apr 2023 16:26:29 +0000</pubDate><guid>https://finerreceiver.github.io/ja/receiver/</guid><description>&lt;h2 id="仕様2023年6月現在">仕様（2023年6月現在)&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -14,19 +14,19 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Number of bands&lt;/td>
-&lt;td>2 (Band 4+5 and 6+7)&lt;/td>
+&lt;td>バンド数&lt;/td>
+&lt;td>2 (アルマ2のバンド4+5受信機、およびバンド6+7受信機に相当)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Number of beams per band&lt;/td>
+&lt;td>1バンドあたりのビーム数&lt;/td>
 &lt;td>1&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Number of polarizations per band&lt;/td>
+&lt;td>1バンドあたりの偏波数&lt;/td>
 &lt;td>2&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Number of sidebands per band&lt;/td>
+&lt;td>1バンドあたりのサイドバンド数&lt;/td>
 &lt;td>2&lt;/td>
 &lt;/tr>
 &lt;/tbody>
@@ -34,30 +34,30 @@
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Spec&lt;/th>
-&lt;th>Low Frequency Band&lt;/th>
-&lt;th>High Frequency Band&lt;/th>
+&lt;th>項目&lt;/th>
+&lt;th>低周波バンド(Band 4+5)&lt;/th>
+&lt;th>高周波バンド(Band 6+7)&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Radio frequency&lt;/td>
-&lt;td>120−210 GHz&lt;/td>
+&lt;td>観測周波数(RF)&lt;/td>
+&lt;td>125−210 GHz&lt;/td>
 &lt;td>210−350 GHz&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Intermediate frequency&lt;/td>
+&lt;td>中間周波数(IF)&lt;/td>
 &lt;td>4-20.48 GHz&lt;/td>
 &lt;td>4-20.48 GHz&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Receiver noise temperature&lt;/td>
+&lt;td>受信機雑音温度&lt;/td>
 &lt;td>45 K&lt;/td>
 &lt;td>75 K&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h2 id="system-overview">System overview&lt;/h2>
+&lt;h2 id="システムの概要">システムの概要&lt;/h2>
 &lt;p>FINER consists of low- and high-frequency band SIS receivers, each of which covers the ALMA&amp;rsquo;s Band 4+5 (120-210 GHz) and Band 6+7 (210-350 GHz), respectively. The front-end receivers are followed by the back-end spectrometers with wide-band and high-dispersion modes.&lt;/p>
 &lt;p>
 &lt;figure >
@@ -72,18 +72,18 @@ height="343"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;strong>Figure. Block diagram.&lt;/strong>&lt;/p>
-&lt;h3 id="optics">Optics&lt;/h3>
+&lt;h3 id="光学系">光学系&lt;/h3>
 &lt;p>A dual-polarization single beam from each receiver band is coupled with the LMT&amp;rsquo;s optics. The FINER warm optics is planed to have a beam-switching mechanism which allows a quick (~1 Hz) position switching for atmospheric removal. The spatial resolution (i.e. PSF size) is 7 arcsec X (frequency/200 GHz)^-1, depending on observing frequency.&lt;/p>
-&lt;h3 id="front-end-receiver">Front-end receiver&lt;/h3>
+&lt;h3 id="フロントエンド受信機">フロントエンド受信機&lt;/h3>
 &lt;p>The front-end receiver exploits the high critical current density SIS mixer technology (&lt;a href="https://ui.adsabs.harvard.edu/abs/2017ITTST...7..694K/" target="_blank" rel="noopener">Kojima et al. 2017&lt;/a>, &lt;a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...640L...9K/" target="_blank" rel="noopener">2020&lt;/a>) for ALMA 2 (wideband sensitivity upgrade, WSU), which allows us to have a wide instantaneous frequency coverage.&lt;/p>
-&lt;h3 id="back-end-spectrometer">Back-end spectrometer&lt;/h3>
+&lt;h3 id="バックエンド分光計">バックエンド分光計&lt;/h3>
 &lt;p>FINER has two sets of digital spectrometers with different spectral resolutions and bandwidths.&lt;/p>
 &lt;ul>
 &lt;li>Wide-band spectrometers (DRS4, ELECS Inc.). Analog IF input is digitized by a set of 3-bit 20.48 GSa/s analog-to-digital converters (ADCs), each of which offers a 10.24 GHz bandwidth with a 20 MHz spectral resolution.&lt;/li>
 &lt;li>High-resolution spectrometers (XFFTS, RPG). spectroscopy is offered by the array of 2.5-GHz digital spectrometers, XFFTS (RPG).&lt;/li>
 &lt;/ul>
-&lt;h3 id="data-analysis-software--data-format">Data analysis software &amp;amp; Data format&lt;/h3>
-&lt;h2 id="technical-document">Technical document&lt;/h2>
+&lt;h3 id="データ処理">データ処理&lt;/h3>
+&lt;h2 id="技術文書">技術文書&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
