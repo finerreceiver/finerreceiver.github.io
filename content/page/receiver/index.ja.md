@@ -5,12 +5,12 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2023-04-06T16:26:29Z
+date: 2023-06-30T00:00:00Z
 featured: false
 draft: false
 ---
 
-## 仕様（2023年6月現在)
+## FINER受信システムの仕様（2023年6月現在)
 | General | |
 |---|---|
 | バンド数 | 2 (アルマ2のバンド4+5受信機、およびバンド6+7受信機に相当) |
