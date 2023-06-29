@@ -48,4 +48,4 @@ design:
 FINERプロジェクトにご興味のある方は，下記までお気軽にご連絡ください．
 - 田村 陽一
   - 名古屋大学大学院理学研究科 物理学教室 [天体物理学研究室](https://www.a.phys.nagoya-u.ac.jp/)
-  - Eメール: `ytamura （at） nagoya-u.jp` （`（at）`を`@`に置き換えてください．）
+  - Eメール： `ytamura （at） nagoya-u.jp` （`（at）`を`@`に置き換えてください．）
