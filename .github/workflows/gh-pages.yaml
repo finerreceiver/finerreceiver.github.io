@@ -19,7 +19,7 @@ jobs:
           extended: true
       - run: |
           hugo --minify
-          cp ./assets/google64f9f7d71c0134cc.html ./public
+          cp ./assets/seo/google64f9f7d71c0134cc.html ./public
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
