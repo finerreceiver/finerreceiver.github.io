@@ -8,8 +8,8 @@ main:
   - name: Receiver
     url: receiver
     weight: 30
-  - name: Publication
-    url: publication
+  - name: Publications
+    url: publications
     weight: 40
   - name: FAQ
     url: faq
