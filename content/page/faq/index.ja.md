@@ -1,14 +1,22 @@
 ---
-title: "FAQ | よくある質問"
+title: "FAQ"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2023-04-06T16:26:33Z
+date: 2023-07-10T20:14:00Z
 featured: false
 draft: false
 ---
 
-- 質問 1
-    - 回答 1
+## よくある質問
+
+### FINERを使って観測するには？
+- Answer
+
+### FINERはいつから観測開始になる？
+- Answer
+
+### FINER開発に参加したい
+- Answer
