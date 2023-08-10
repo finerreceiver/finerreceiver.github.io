@@ -17,4 +17,11 @@ content:
         media: cover.jpg
         position: center
         brightness: 0.7
+    - title: FINER
+      content: Far-Infrared Nebular Emission Receiver for Large Millimeter Telescope
+      align: left
+      background:
+        media: lmt.jpg
+        position: center
+        brightness: 0.7
 ---
