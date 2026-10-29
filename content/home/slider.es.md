@@ -24,4 +24,11 @@ content:
         media: lmt.jpg
         position: center
         brightness: 0.7
+    - title: FINER
+      content: Receptor de emisión nebular en el infrarrojo lejano para el Gran Telescopio Milimétrico
+      align: left
+      background:
+        media: receiver.jpg
+        position: center
+        brightness: 0.7
 ---
