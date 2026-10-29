@@ -22,8 +22,8 @@ design:
 - 単 文磊 （SHAN, Wenlei） （国立天文台 准教授）
 - [竹腰 達哉](https://www.kitami-it.ac.jp/about/academicstaff/1346/) （北見工業大学 助教）
 - 田中 邦彦 （慶應義塾大学 助教）
-- [谷口 暁星](https://astropengu.in/) （名古屋大学 特任助教）
-- [中島 拓](https://www.isee.nagoya-u.ac.jp/~nakajima/index-j.html) （名古屋大学 助教）
+- [谷口 暁星](https://astropengu.in/) （北見工業大学）
+- 中島 拓 （公立諏訪東京理科大学）
 - 萩本 将都 （名古屋大学 大学院生/日本学術振興会特別研究員）
 
 ## 科学評価チーム
