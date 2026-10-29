@@ -124,26 +124,72 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/table>
 &lt;p>The proposal describes the original design and plan; the configuration and schedule have since been updated as described on this page.&lt;/p>
 &lt;h2 id="references">References&lt;/h2>
-&lt;p>See &lt;a href="../publications/">Publications&lt;/a> for the instrument papers.&lt;/p></description></item><item><title>Science</title><link>https://finerreceiver.github.io/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/science/</guid><description>&lt;h2 id="galaxy-formation">Galaxy formation&lt;/h2>
-&lt;h3 id="background-galaxy-formation-in-the-epoch-of-reionization-and-beyond">Background: Galaxy formation in the epoch of reionization and beyond&lt;/h3>
-&lt;p>How and when the first galaxies form in the earliest Universe is one of the most fundamental questions in modern astronomy. The pristine materials in the early universe cooled down to form neutral hydrogen at redshift z ~ 1000 or 380k years after the Big Bang. Once first stars and galaxies are born, however, the hydrogen gas in the intergalactic space is ʻreionizedʼ by hydrogen-ionizing photons from the hot, massive stars. This so-called cosmic reionization is indirect evidence for the birth of the first luminous objects. In recent years, Planck satellite has reported that cosmic reionization occurred in the period centered at redshift z = 7.8 (660 million years after the Big Bang, Planck Collaboration 2018), whereas more than 100 galaxy candidates have been identified with Hubble even before the period (e.g., Bouwens et al. 2018, see recent achievements with JWST), meaning that we are likely witnessing the birth of the earliest galaxies in the universe.&lt;/p>
-&lt;p>In particular, finding massive galaxies in the era is difficult but is expected to offer unique information on galaxy formation, because the probability of finding them (i.e., volume density or luminosity function) depends on cosmic structure formation models. Then, the key questions we are trying to address in this research are&lt;/p>
+&lt;p>See &lt;a href="../publications/">Publications&lt;/a> for the instrument papers.&lt;/p></description></item><item><title>Science</title><link>https://finerreceiver.github.io/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/science/</guid><description>&lt;h2 id="galaxy-formation-in-the-first-half-of-the-epoch-of-reionization">Galaxy formation in the first half of the epoch of reionization&lt;/h2>
+&lt;h3 id="background">Background&lt;/h3>
+&lt;p>The James Webb Space Telescope (JWST) has found more than a hundred candidate galaxies at redshifts &lt;em>z&lt;/em> &amp;gt; 8, when the Universe was less than about 600 million years old, and has confirmed some of them spectroscopically out to &lt;em>z&lt;/em> ≈ 14. The bright end of their ultraviolet luminosity function evolves surprisingly little with redshift (&lt;a href="https://ui.adsabs.harvard.edu/abs/2022ApJS..259...20H/abstract" target="_blank" rel="noopener">Harikane et al. 2022&lt;/a>), which means that massive galaxies had to grow very efficiently within a short time. This places a stringent constraint on models of cosmic structure formation.&lt;/p>
+&lt;p>To understand what drives this rapid growth, we need spectroscopy that answers two questions:&lt;/p>
 &lt;ul>
-&lt;li>when massive galaxies emerge,&lt;/li>
-&lt;li>how common they are in the pre-reionization era,&lt;/li>
-&lt;li>what controls their growth.&lt;/li>
+&lt;li>How common are bright, massive galaxies in the early epoch of reionization (their number density)?&lt;/li>
+&lt;li>What physical conditions control their growth (metallicity, ionization state and gas density)?&lt;/li>
 &lt;/ul>
-&lt;p>It is, however, difficult to confirm galaxy &amp;ldquo;candidates&amp;rdquo; in the era; in general, identifying an object as a galaxy and determining its physical properties begin with spectroscopy of atomic or molecular spectral lines. But the combination of bright spectral lines and a sensitive instrument that are sufficient for detection of a galaxy even in the furthest universe is very limited.&lt;/p>
+&lt;h3 id="far-infrared-nebular-emission-lines">Far-infrared nebular emission lines&lt;/h3>
+&lt;p>The far-infrared fine-structure line of doubly ionized oxygen, [O III] 88 µm, was proposed as a powerful tracer for identifying the redshifts of the most distant galaxies (&lt;a href="https://ui.adsabs.harvard.edu/abs/2014ApJ...780L..18I/abstract" target="_blank" rel="noopener">Inoue et al. 2014&lt;/a>). ALMA observations of this line revealed extremely high [O III]/[C II] ratios, indicating highly ionized gas filling these young galaxies (&lt;a href="https://ui.adsabs.harvard.edu/abs/2016Sci...352.1559I/abstract" target="_blank" rel="noopener">Inoue et al. 2016&lt;/a>), and held the record for the most distant spectroscopic redshift obtained with ALMA until 2022 (&lt;a href="https://ui.adsabs.harvard.edu/abs/2018Natur.557..392H/abstract" target="_blank" rel="noopener">Hashimoto et al. 2018&lt;/a>). Even in the JWST era, [O III] 88 µm at &lt;em>z&lt;/em> &amp;gt; 9 is as detectable as the rest-frame ultraviolet lines observed with JWST/NIRSpec.&lt;/p>
+&lt;p>However, ALMA in the southern hemisphere cannot easily observe high-declination fields. Many bright galaxies at &lt;em>z&lt;/em> &amp;gt; 8 found in northern deep fields, such as GOODS-North and CEERS, remain unexplored in the far-infrared lines (Figure 1).&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Bright galaxies at z &amp;gt; 8 in the northern sky remain unexplored with ALMA" srcset="
+/science/fig_bright_unexplored_hu13425632865376482023.webp 400w,
+/science/fig_bright_unexplored_hu15657293127650879742.webp 760w,
+/science/fig_bright_unexplored_hu9735927736208423550.webp 1200w"
+src="https://finerreceiver.github.io/science/fig_bright_unexplored_hu13425632865376482023.webp"
+width="760"
+height="372"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;strong>Figure 1.&lt;/strong> UV absolute magnitude versus spectroscopic redshift of galaxies at &lt;em>z&lt;/em> &amp;gt; 6. Green and blue circles are galaxies with and without ALMA detections; red crosses are galaxies in northern fields. Adapted from &lt;a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...980..138H/abstract" target="_blank" rel="noopener">Harikane et al. 2025, ApJ, 980, 138&lt;/a> (colour coding by M. Hagimoto).&lt;/p>
 &lt;h3 id="key-science-goals">Key science goals&lt;/h3>
-&lt;p>In this study, we aim for a sensitive spectroscopic survey of galaxies in the pre-reionization era using the far-infrared fine-structure lines, [O III] 88 μm and [C II] 158 μm, that are demonstrated to be bright (Inoue et al. 2016), based on our novel millimeter and submillimeter-wave receiver, FINER, for Large Millimeter Telescope (LMT). We also aim to elucidate their physical properties.&lt;/p>
-&lt;h3 id="how-finer-helps">How FINER helps?&lt;/h3>
-&lt;p>FINER offers an instantaneous bandwidth 5 times wider than ALMA, while achieving the same sensitivity as ALMA. LMT-FINER will provide 40% of ALMAʼs light-collecting area, a similar atmospheric transmittance to ALMA, and a 5 times wider bandwidth than ALMA. This offers the most sensitive spectral-scanning capability among millimeter and submillimeter telescopes in the northern hemisphere.&lt;/p>
-&lt;h2 id="further-cases">Further cases&lt;/h2>
-&lt;p>On top of that, FINER also offers a unique capability for broader science cases as follows.&lt;/p>
+&lt;p>With FINER on the 50-m LMT in Mexico (latitude 19°N), we aim to:&lt;/p>
 &lt;ul>
-&lt;li>Solar system&lt;/li>
-&lt;li>Interstellar medium&lt;/li>
-&lt;li>Star formation&lt;/li>
-&lt;li>Nearby galaxies&lt;/li>
-&lt;li>Distant submillimeter-bright galaxies&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;li>identify the spectroscopic redshifts of bright galaxies at &lt;em>z&lt;/em> ≈ 8–15 in the northern sky using [O III] 88 µm and [C II] 158 µm, including galaxies confirmed by JWST and photometric candidates from wide-field surveys such as &lt;em>Euclid&lt;/em> and &lt;em>Roman&lt;/em>;&lt;/li>
+&lt;li>detect [O III] 88 µm from a bright Lyman break galaxy in a single night of observation;&lt;/li>
+&lt;li>measure the number density of bright galaxies in the first half of the epoch of reionization and diagnose their interstellar medium.&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-finer-helps">How FINER helps&lt;/h3>
+&lt;p>A typical photometric redshift uncertainty of Δ&lt;em>z&lt;/em> ≈ 1 at &lt;em>z&lt;/em> ≈ 10 requires a spectral coverage of more than 30 GHz to find the line. FINER covers about 38 GHz in a single tuning, whereas the current ALMA needs four or more tunings for the same range (Figure 2). Combined with 40% of ALMA&amp;rsquo;s collecting area and a high-altitude site (4,600 m), this offers the most sensitive spectral-scanning capability among millimeter and submillimeter telescopes in the northern hemisphere (Figure 3).&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Redshift identification with ALMA and FINER" srcset="
+/science/fig_redshift_id_hu14634751317202249282.webp 400w,
+/science/fig_redshift_id_hu14155497282478871541.webp 760w,
+/science/fig_redshift_id_hu5294646385052334832.webp 1200w"
+src="https://finerreceiver.github.io/science/fig_redshift_id_hu14634751317202249282.webp"
+width="760"
+height="359"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;strong>Figure 2.&lt;/strong> The [O III] 88 µm line of the &lt;em>z&lt;/em> = 8.31 galaxy MACS0416_Y1 was found after four ALMA tunings (&lt;a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...874...27T/abstract" target="_blank" rel="noopener">Tamura et al. 2019&lt;/a>). The orange bars show the frequency range FINER covers in a single tuning (19 GHz × 2 sidebands).&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Expected line intensities and FINER sensitivity" srcset="
+/science/fig_finer_sensitivity_hu11221714991053659958.webp 400w,
+/science/fig_finer_sensitivity_hu5097370986278833971.webp 760w,
+/science/fig_finer_sensitivity_hu12783330082050089209.webp 1200w"
+src="https://finerreceiver.github.io/science/fig_finer_sensitivity_hu11221714991053659958.webp"
+width="760"
+height="552"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;strong>Figure 3.&lt;/strong> Expected [O III] 88 µm and [C II] 158 µm flux densities of a bright Lyman break galaxy (&lt;em>M&lt;/em>&lt;sub>UV&lt;/sub> = −21.5) at &lt;em>z&lt;/em> = 8–15, compared with the minimum 5σ-detectable flux density of LMT-FINER in 10 hours (gray). The bars in the inset compare the instantaneous IF bandwidths of FINER and the current ALMA (&lt;a href="https://arxiv.org/abs/2406.07975" target="_blank" rel="noopener">Tamura et al. 2024&lt;/a>).&lt;/p>
+&lt;h2 id="further-science-cases">Further science cases&lt;/h2>
+&lt;p>FINER also offers unique capabilities for a broad range of science, including:&lt;/p>
+&lt;ul>
+&lt;li>the Solar System (planetary atmospheres and comets),&lt;/li>
+&lt;li>the interstellar medium and astrochemistry,&lt;/li>
+&lt;li>star formation,&lt;/li>
+&lt;li>nearby galaxies,&lt;/li>
+&lt;li>distant dusty star-forming galaxies, including spectroscopic follow-up of galaxies detected with TolTEC.&lt;/li>
+&lt;/ul>
+&lt;p>See the &lt;a href="https://finerreceiver.github.io/files/FINER_Proposal_verA.pdf">FINER proposal (PDF)&lt;/a> for details.&lt;/p></description></item></channel></rss>
