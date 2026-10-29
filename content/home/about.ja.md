@@ -19,4 +19,4 @@ FINER受信システムは，2026年10月に国立天文台での統合試験と
 FINERプロジェクトは，日本学術振興会の科学研究費助成事業[^2]の支援を受けています．
 
 [^1]: Far-Infrared Nebular Emission Receiver
-[^2]: 基盤研究(S)「[遠赤外線微細構造輝線で切り拓く前・宇宙再電離期の銀河形成](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H04939/)」（22H04939，代表：田村陽一），特別推進研究「[集積超伝導分光器技術とデータ科学で切り拓くサブミリ波輝線強度マッピングの新展開](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24H00004/)」（24H00004，代表：河野孝太郎），国際先導研究「[超伝導工学・大規模数値計算・データ科学で解明する宇宙最初期の重元素生成過程](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K20035/)」（23K20035，代表：河野孝太郎），基盤研究(A)（代表：川邊良平）
+[^2]: 基盤研究(S)「[遠赤外線微細構造輝線で切り拓く前・宇宙再電離期の銀河形成](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H04939/)」（22H04939，代表：田村陽一），特別推進研究「[集積超伝導分光器技術とデータ科学で切り拓くサブミリ波輝線強度マッピングの新展開](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24H00004/)」（24H00004，代表：河野孝太郎），国際先導研究「[超伝導工学・大規模数値計算・データ科学で解明する宇宙最初期の重元素生成過程](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K20035/)」（23K20035，代表：河野孝太郎），基盤研究(A)「[高感度2ミリ帯分光観測による隠された爆発的星生成と巨大ブラックホールの研究](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H02073/)」（15H02073，代表：川邊良平）

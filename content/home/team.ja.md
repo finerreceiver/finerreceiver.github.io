@@ -14,12 +14,13 @@ design:
 - [酒井 剛](http://www.t-sakai.cei.uec.ac.jp/) （電気通信大学）
 
 ## 開発チーム
+- 石井 峻 （国立天文台）
 - 大島 泰 （国立天文台）
-- 岡内 紀翔 （名古屋大学）
 - 川邊 良平 （国立天文台）
 - 康 浩然 （KANG, Haoran） （国立天文台）
 - 小嶋 崇文 （国立天文台）
 - 単 文磊 （SHAN, Wenlei） （国立天文台）
+- 増井 翔 （国立天文台）
 - [竹腰 達哉](https://www.kitami-it.ac.jp/about/academicstaff/1346/) （北見工業大学）
 - 田中 邦彦 （慶應義塾大学）
 - [谷口 暁星](https://astropengu.in/) （北見工業大学）
@@ -40,7 +41,7 @@ design:
 - 廿日出 文洋 （国立天文台）
 - [トム バックス （BAKX, Tom J.L.C.）](https://tombak.xyz/) （チャルマース工科大学）
 - [播金 優一](https://sites.google.com/view/yuichi-harikane/) （東京大学）
-- 札本 佳伸 （早稲田大学/国立天文台）
+- 札本 佳伸 （千葉大学）
 - 松田 有一 （国立天文台）
 - 馬渡 健 （筑波大学）
 

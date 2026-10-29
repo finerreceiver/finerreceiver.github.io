@@ -14,11 +14,12 @@ design:
 - Takeshi Sakai (The University of Electro-Communications)
 ## Development Team
 - Masato Hagimoto (Nagoya University)
-- Ryohei Kawabe (NAOJ)
+- Shun Ishii (NAOJ)
 - Haoran Kang (NAOJ)
+- Ryohei Kawabe (NAOJ)
 - Takafumi Kojima (NAOJ)
+- Sho Masui (NAOJ)
 - Tac Nakajima (Suwa University of Science)
-- Norika Okauchi (Nagoya University)
 - Tai Oshima (NAOJ)
 - Wenlei Shan (NAOJ)
 - Tatsuya Takekoshi (Kitami Institute of Technology)
@@ -26,7 +27,7 @@ design:
 - Akio Taniguchi (Kitami Institute of Technology)
 ## Science Team
 - Tom J.L.C. Bakx (Chalmers University of Technology)
-- Yoshinobu Fudamoto (Waseda University/NAOJ)
+- Yoshinobu Fudamoto (Chiba University)
 - Yuichi Harikane (The University of Tokyo)
 - Takuya Hashimoto (University of Tsukuba)
 - Bunyo Hatsukade (NAOJ)
