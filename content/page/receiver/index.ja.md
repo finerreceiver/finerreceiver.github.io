@@ -10,45 +10,52 @@ featured: false
 draft: false
 ---
 
-## FINER受信システムの仕様（2023年6月現在)
-| General | |
+## 仕様
+
+FINERは両偏波・サイドバンド分離（2SB）型のSIS受信システムです．下の表は，ファーストライト時に搭載する構成と，システム全体の設計目標をまとめたものです．
+
+| 全般 | |
 |---|---|
-| バンド数 | 2 (アルマ2のバンド4+5受信機，およびバンド6+7受信機に相当) |
+| バンド数 | 2（ファーストライト時は1バンドずつ切り替えて観測） |
 | 1バンドあたりのビーム数 | 1 |
 | 1バンドあたりの偏波数 | 2 |
-| 1バンドあたりのサイドバンド数 | 2 |
+| 1バンドあたりのサイドバンド数 | 2（2SB） |
 
-| 項目 | 低周波バンド(Band 4+5) | 高周波バンド(Band 6+7) |
-|---|---|---|
-| 観測周波数(RF) | 125−210 GHz | 210−350 GHz|
-| 中間周波数(IF) | 4-20.48 GHz | 4-20.48 GHz |
-| 受信機雑音温度 | 45 K | 75 K |
+| | Band 4（ファーストライト） | Band 6+7 | Band 4+5（将来の更新） |
+|---|---|---|---|
+| 観測周波数（RF） | 約138–178 GHz | 約210–351 GHz | 120–210 GHz |
+| 中間周波数（IF，サイドバンド・偏波あたり） | 4–8 GHz | 4–20 GHz | 4–20 GHz |
+| 受信機雑音温度（SSB，設計目標） | — | 75 K | 45 K |
 
+実測性能は，LMTでのコミッショニングののちにこのページで公開します．
 
 ## システムの概要
-FINER consists of low- and high-frequency band SIS receivers, each of which covers the ALMA's Band 4+5 (120-210 GHz) and Band 6+7 (210-350 GHz), respectively. The front-end receivers are followed by the back-end spectrometers with wide-band and high-dispersion modes.
+
+ファーストライト時のFINERは，ひとつのクライオスタットに2台のフロントエンド受信機（Band 4 MMIC受信機と広帯域Band 6+7受信機，いずれも国立天文台で開発）を搭載します．120–210 GHzを覆う広帯域Band 4+5受信機は将来の更新として計画しています．4系統のIFはスイッチでどちらかのバンドにつながるため，観測は1バンドずつ行います．2バンド同時観測は，将来の光学系の更新で実現できる見込みです．
 
 ![blockdiagram](blockdiagram.png)
-**Figure. Block diagram.**
+**図．FINERシステム全体のブロック図（設計）．**
 
 ### 光学系
-A dual-polarization single beam from each receiver band is coupled with the LMT's optics. The FINER warm optics is planed to have a beam-switching mechanism which allows a quick (~1 Hz) position switching for atmospheric removal. The spatial resolution (i.e. PSF size) is 7 arcsec X (frequency/200 GHz)^-1, depending on observing frequency.
+FINERの常温光学系は，LMTのM4鏡のあとでビームを電動の鏡の組（「ペリスコープ」）で取り出します．この鏡は遠隔操作で観測位置と退避位置を切り替えられます．強度較正には黒体の負荷を備えたチョッパーを使います．高速な位置スイッチのためのスカイチョッパーは，のちの段階で導入する計画です．空間分解能（PSFの大きさ）は約 7秒角 ×（周波数 / 200 GHz）<sup>−1</sup> です．
 
 ### フロントエンド受信機
-The front-end receiver exploits the high critical current density SIS mixer technology ([Kojima et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ITTST...7..694K/), [2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...640L...9K/)) for ALMA 2 (wideband sensitivity upgrade, WSU), which allows us to have a wide instantaneous frequency coverage.
+フロントエンド受信機には，アルマ望遠鏡の広帯域化計画（WSU）のために開発された高臨界電流密度SISミクサ技術を用いており（[Kojima et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ITTST...7..694K/), [2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...640L...9K/); [Kang et al. 2026](https://arxiv.org/abs/2606.25637)），広い瞬時周波数帯域を実現しています．
 
 ### バックエンド分光計
-FINER has two sets of digital spectrometers with different spectral resolutions and bandwidths.
+- **広帯域分光計（DRS4，エレックス工業）．** 2台のDRS4筐体で，帯域10.24 GHzのベースバンド8本を3ビット・20.48 GSa/sのADCでデジタル化し，周波数分解能20 MHzのスペクトルを得ます（[Hagimoto et al. 2024](https://doi.org/10.1117/12.3018296)）．サイドバンド分離もデジタル処理で行います．
+- **高分解能分光計（XFFTS，RPG）．** LMTの2 mm受信機B4Rで使われてきたXFFTS（帯域2.5 GHz，分解能88 kHz）も，高分解能分光に引き続き使えます．
 
-- Wide-band spectrometers (DRS4, ELECS Inc.). Analog IF input is digitized by a set of 3-bit 20.48 GSa/s analog-to-digital converters (ADCs), each of which offers a 10.24 GHz bandwidth with a 20 MHz spectral resolution.
-- High-resolution spectrometers (XFFTS, RPG). spectroscopy is offered by the array of 2.5-GHz digital spectrometers, XFFTS (RPG).
-
-### データ処理
+### データとソフトウェア
+FINERはLMTの望遠鏡制御システムから操作します．データ形式と解析パイプラインは，LMTチームと共同で開発を進めています．
 
 ## 技術文書
 
-| Document | Version | Download |
+| 文書 | 版 | ダウンロード |
 |---|---|---|
-| Proposal | 1-May-2023 | (in prep.) |
-| Overview | 1-May-2023 | (in prep.) |
+| LMTへのFINER提案書（英語） | Version A，2023年6月15日 | [PDF（5 MB）](/files/FINER_Proposal_verA.pdf) |
 
+提案書は当初の設計と計画を記したものです．構成とスケジュールはその後このページの内容に更新されています．
+
+## 参考文献
+装置論文は[Publications](../publications/)をご覧ください．
