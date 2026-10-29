@@ -49,5 +49,13 @@ The front-end receivers exploit the high critical current density SIS mixer tech
 ### Data and software
 FINER is controlled from the LMT Telescope Control System. The data format and the reduction pipeline are being developed together with the LMT team.
 
+## Technical documents
+
+| Document | Version | Download |
+|---|---|---|
+| FINER proposal to the LMT | Version A, 15 June 2023 | [PDF (5 MB)](/files/FINER_Proposal_verA.pdf) |
+
+The proposal describes the original design and plan; the configuration and schedule have since been updated as described on this page.
+
 ## References
 See [Publications](../publications/) for the instrument papers.
