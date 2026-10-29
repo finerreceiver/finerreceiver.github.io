@@ -8,6 +8,8 @@ enableEmoji: true
 enableRobotsTXT: true
 hasCJKLanguage: true
 removePathAccents: true
+frontmatter:
+  lastmod: ['lastmod', 'date', 'publishDate']
 permalinks:
   authors: '/author/:slug/'
   categories: '/category/:slug/'
