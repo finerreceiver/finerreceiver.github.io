@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FINER</title><link>https://finerreceiver.github.io/ja/</link><atom:link href="https://finerreceiver.github.io/ja/index.xml" rel="self" type="application/rss+xml"/><description>FINER</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Tue, 28 Oct 2025 09:00:00 +0000</lastBuildDate><image><url>https://finerreceiver.github.io/media/icon_hu11526619733795373807.png</url><title>FINER</title><link>https://finerreceiver.github.io/ja/</link></image><item><title>2024年版LMT/B4Rコミッショニングレポートを公開しました</title><link>https://finerreceiver.github.io/ja/post/2025-10-28/</link><pubDate>Tue, 28 Oct 2025 09:00:00 +0000</pubDate><guid>https://finerreceiver.github.io/ja/post/2025-10-28/</guid><description>&lt;p>2024年に実施したLMT/B4Rコミッショニングおよびサイエンス観測のレポートを公開しました。
-B4Rは2 mm帯の両偏波・2SBヘテロダイン受信システム（Kawabe et al. 2025 in press; Yonetsu et al. 2025 in press）で、FINER受信システムの先行機にあたります。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FINER</title><link>https://finerreceiver.github.io/ja/</link><atom:link href="https://finerreceiver.github.io/ja/index.xml" rel="self" type="application/rss+xml"/><description>FINER</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Fri, 16 Oct 2026 09:00:00 +0900</lastBuildDate><image><url>https://finerreceiver.github.io/media/sharing.jpg</url><title>FINER</title><link>https://finerreceiver.github.io/ja/</link></image><item><title>FINERの実験室評価が完了しました</title><link>https://finerreceiver.github.io/ja/post/2026-10-16/</link><pubDate>Fri, 16 Oct 2026 09:00:00 +0900</pubDate><guid>https://finerreceiver.github.io/ja/post/2026-10-16/</guid><description>&lt;p>常温光学系，2台のフロントエンド受信機，局部発振器，IF系，DRS4分光計を組み合わせた，FINERシステム全体の国立天文台での統合試験が完了しました．開発チーム一丸となって取り組んできた受信機は，いよいよメキシコのLMTへの輸送に向けた準備に入ります．&lt;/p></description></item><item><title>SPIE 2026でFINERの論文を発表しました</title><link>https://finerreceiver.github.io/ja/post/2026-07-03/</link><pubDate>Fri, 03 Jul 2026 09:00:00 +0900</pubDate><guid>https://finerreceiver.github.io/ja/post/2026-07-03/</guid><description>&lt;p>FINERに関する2本の新しい論文がarXivで公開されました．システム開発とファーストライトに向けた準備（&lt;a href="https://arxiv.org/abs/2607.03265" target="_blank" rel="noopener">Taniguchi et al. 2026&lt;/a>）と，210–350 GHz帯の広帯域受信機（&lt;a href="https://arxiv.org/abs/2606.25637" target="_blank" rel="noopener">Kang et al. 2026&lt;/a>）です．&lt;/p></description></item><item><title>FINERの「ペリスコープ」が完成しました</title><link>https://finerreceiver.github.io/ja/post/2026-06-11/</link><pubDate>Thu, 11 Jun 2026 09:00:00 +0900</pubDate><guid>https://finerreceiver.github.io/ja/post/2026-06-11/</guid><description>&lt;p>LMTが集めた電波を取り出してFINER受信機へ導く常温光学系（「ペリスコープ」）が完成しました．北見工業大学の竹腰達哉さんが組み込みの最終段階を進めています．&lt;/p></description></item><item><title>FINER受信機を用いたダークフォトン探索（DOSUE-RR）</title><link>https://finerreceiver.github.io/ja/post/2026-04-11/</link><pubDate>Sat, 11 Apr 2026 09:00:00 +0900</pubDate><guid>https://finerreceiver.github.io/ja/post/2026-04-11/</guid><description>&lt;p>LMTへの輸送を前に，FINERのBand 6+7受信機（210–350 GHz）を用いて，電波でダークマターを探す実験「DOSUE-RR」が国立天文台で行われています．岡山大学の安達准教授を含む共同研究チームが独自の較正装置と読み出し装置をFINERに搭載し，2026年4月6日から0.9–1.4 meVの質量範囲でダークフォトンの探索を始めました．詳しくは&lt;a href="https://www.physics.okayama-u.ac.jp/ishino-lab/details/wordpress/product/web/2026/04/11/3680/" target="_blank" rel="noopener">岡山大学のお知らせ&lt;/a>をご覧ください．&lt;/p></description></item><item><title>2024年版LMT/B4Rコミッショニングレポートを公開しました</title><link>https://finerreceiver.github.io/ja/post/2025-10-28/</link><pubDate>Tue, 28 Oct 2025 09:00:00 +0000</pubDate><guid>https://finerreceiver.github.io/ja/post/2025-10-28/</guid><description>&lt;p>2024年に実施したLMT/B4Rコミッショニングおよびサイエンス観測のレポートを公開しました。
+B4Rは2 mm帯の両偏波・2SBヘテロダイン受信システム（&lt;a href="https://doi.org/10.3847/1538-3881/ae12eb" target="_blank" rel="noopener">Kawabe et al. 2025, AJ, 170, 350&lt;/a>; &lt;a href="https://arxiv.org/abs/2511.21845" target="_blank" rel="noopener">Yonetsu et al. 2025, arXiv:2511.21845&lt;/a>）で、FINER受信システムの先行機にあたります。&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://drive.google.com/file/d/1xWVjfqFPP-iTx_BXtnBgGDb1ns96nP8K" target="_blank" rel="noopener">Link to the report (Google Drive)&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>FAQ</title><link>https://finerreceiver.github.io/ja/faq/</link><pubDate>Mon, 10 Jul 2023 20:14:00 +0000</pubDate><guid>https://finerreceiver.github.io/ja/faq/</guid><description>&lt;h2 id="よくある質問">よくある質問&lt;/h2>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1xWVjfqFPP-iTx_BXtnBgGDb1ns96nP8K" target="_blank" rel="noopener">レポート（Google Drive）&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>国立天文台でFINERの実験室評価が始まりました</title><link>https://finerreceiver.github.io/ja/post/2025-05-28/</link><pubDate>Wed, 28 May 2025 09:00:00 +0900</pubDate><guid>https://finerreceiver.github.io/ja/post/2025-05-28/</guid><description>&lt;p>LMTへの搭載をめざして開発中の受信機FINERの評価が，国立天文台の実験室で始まりました．助教の萩本将都さんと大学院生の加藤さんが測定を進めています．&lt;/p></description></item><item><title>ASIAAでFINER共同研究会議を開催しました</title><link>https://finerreceiver.github.io/ja/post/2024-10-17/</link><pubDate>Thu, 17 Oct 2024 09:00:00 +0900</pubDate><guid>https://finerreceiver.github.io/ja/post/2024-10-17/</guid><description>&lt;p>台北の中央研究院天文及天文物理研究所（ASIAA）で，FINERの共同研究会議を開催しました．&lt;/p></description></item><item><title>SPIE 2024でFINERの論文を発表しました</title><link>https://finerreceiver.github.io/ja/post/2024-06-13/</link><pubDate>Thu, 13 Jun 2024 09:00:00 +0900</pubDate><guid>https://finerreceiver.github.io/ja/post/2024-06-13/</guid><description>&lt;p>FINERに関する一連の論文がarXivで公開され，横浜で開催されたSPIE Astronomical Telescopes + Instrumentation 2024で発表されました．康浩然さんと萩本将都さんが，受信機と分光計の開発状況を報告しました．&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2406.07975" target="_blank" rel="noopener">Tamura et al. 2024&lt;/a>：プロジェクトの概要&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2406.07974" target="_blank" rel="noopener">Kang et al. 2024&lt;/a>：受信機&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2406.07978" target="_blank" rel="noopener">Hagimoto et al. 2024&lt;/a>：デジタル分光計アレイ&lt;/li>
+&lt;/ul></description></item><item><title>INAOEでのFINER協議とLMTでの観測</title><link>https://finerreceiver.github.io/ja/post/2024-04-29/</link><pubDate>Mon, 29 Apr 2024 09:00:00 +0900</pubDate><guid>https://finerreceiver.github.io/ja/post/2024-04-29/</guid><description>&lt;p>FINERチームのメンバーが，メキシコ・プエブラにあるINAOEの大型ミリ波望遠鏡（LMT）オフィスを訪れ，LMTチームとFINER受信機について協議しました．その後，標高4,600 mのシエラネグラ山頂で，受信機の試験と遠方銀河の分子ガスの観測を行いました．&lt;/p></description></item><item><title>FINER計画が始動しました</title><link>https://finerreceiver.github.io/ja/post/2023-11-17/</link><pubDate>Fri, 17 Nov 2023 09:00:00 +0900</pubDate><guid>https://finerreceiver.github.io/ja/post/2023-11-17/</guid><description>&lt;p>北天で未同定のまま残された超遠方銀河を探査するFINER計画が始動しました．今週，国立天文台と研究契約を交わし，アルマ望遠鏡の次世代計画「アルマ2」の受信機技術の提供を受ける準備が整いました．メキシコの大型ミリ波望遠鏡LMTとタッグを組み，北半球最高の分光探査感度をめざします．&lt;/p></description></item><item><title>FAQ</title><link>https://finerreceiver.github.io/ja/faq/</link><pubDate>Mon, 10 Jul 2023 20:14:00 +0000</pubDate><guid>https://finerreceiver.github.io/ja/faq/</guid><description>&lt;h2 id="よくある質問">よくある質問&lt;/h2>
 &lt;h3 id="finerを使って観測するには">FINERを使って観測するには？&lt;/h3>
-&lt;ul>
-&lt;li>Answer&lt;/li>
-&lt;/ul>
+&lt;p>FINERはコミッショニングののち，通常の&lt;a href="http://lmtgtm.org/for-lmt-users/call-for-proposals/?lang=en" target="_blank" rel="noopener">LMT観測公募（Call for Proposals）&lt;/a>を通じて提供される予定です．LMTの観測時間はLMTのパートナー機関のコミュニティに配分され，応募資格は各回の公募の規定に従います．現時点では，パートナー以外の研究者が観測提案を行う正式な枠組みはありません．&lt;/p>
 &lt;h3 id="finerはいつから観測開始になる">FINERはいつから観測開始になる？&lt;/h3>
-&lt;ul>
-&lt;li>2025年初めのファーストライトを目指しています。2023年に打ち上がったEuclid衛星による北黄極 (northe ecliptic pole) の深宇宙探査が進み、2027年に打ち上げをひかえるRoman宇宙望遠鏡によるさらなる探査の好機をとらえられるよう、この時期からの科学運用を目指しています。&lt;/li>
-&lt;/ul>
+&lt;p>LMTへの搭載とコミッショニングを経て，2027年の観測開始を予定しています．&lt;/p>
 &lt;h3 id="finer開発に参加したい">FINER開発に参加したい&lt;/h3>
-&lt;ul>
-&lt;li>FINERプロジェクトでは、新規に参入する研究者を歓迎しています。担当者（田村）までお気軽にご連絡ください。&lt;/li>
-&lt;/ul></description></item><item><title>Receiver</title><link>https://finerreceiver.github.io/ja/receiver/</link><pubDate>Thu, 29 Jun 2023 12:00:00 +0000</pubDate><guid>https://finerreceiver.github.io/ja/receiver/</guid><description>&lt;h2 id="finer受信システムの仕様2023年6月現在">FINER受信システムの仕様（2023年6月現在)&lt;/h2>
+&lt;p>FINERプロジェクトでは，開発に参加する研究者を歓迎しています．プロジェクト代表の田村陽一（名古屋大学，Eメール：&lt;code>ytamura （at） nagoya-u.jp&lt;/code>）までご連絡ください．&lt;/p></description></item><item><title>Receiver</title><link>https://finerreceiver.github.io/ja/receiver/</link><pubDate>Thu, 29 Jun 2023 12:00:00 +0000</pubDate><guid>https://finerreceiver.github.io/ja/receiver/</guid><description>&lt;h2 id="仕様">仕様&lt;/h2>
+&lt;p>FINERは両偏波・サイドバンド分離（2SB）型のSIS受信システムです．下の表は，ファーストライト時に搭載する構成と，システム全体の設計目標をまとめたものです．&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>General&lt;/th>
+&lt;th>全般&lt;/th>
 &lt;th>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
 &lt;td>バンド数&lt;/td>
-&lt;td>2 (アルマ2のバンド4+5受信機，およびバンド6+7受信機に相当)&lt;/td>
+&lt;td>2（ファーストライト時は1バンドずつ切り替えて観測）&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>1バンドあたりのビーム数&lt;/td>
@@ -37,38 +37,43 @@ B4Rは2 mm帯の両偏波・2SBヘテロダイン受信システム（Kawabe et 
 &lt;/tr>
 &lt;tr>
 &lt;td>1バンドあたりのサイドバンド数&lt;/td>
-&lt;td>2&lt;/td>
+&lt;td>2（2SB）&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>項目&lt;/th>
-&lt;th>低周波バンド(Band 4+5)&lt;/th>
-&lt;th>高周波バンド(Band 6+7)&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>Band 4（ファーストライト）&lt;/th>
+&lt;th>Band 6+7&lt;/th>
+&lt;th>Band 4+5（将来の更新）&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>観測周波数(RF)&lt;/td>
-&lt;td>125−210 GHz&lt;/td>
-&lt;td>210−350 GHz&lt;/td>
+&lt;td>観測周波数（RF）&lt;/td>
+&lt;td>約138–178 GHz&lt;/td>
+&lt;td>約210–351 GHz&lt;/td>
+&lt;td>120–210 GHz&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>中間周波数(IF)&lt;/td>
-&lt;td>4-20.48 GHz&lt;/td>
-&lt;td>4-20.48 GHz&lt;/td>
+&lt;td>中間周波数（IF，サイドバンド・偏波あたり）&lt;/td>
+&lt;td>4–8 GHz&lt;/td>
+&lt;td>4–20 GHz&lt;/td>
+&lt;td>4–20 GHz&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>受信機雑音温度&lt;/td>
-&lt;td>45 K&lt;/td>
+&lt;td>受信機雑音温度（SSB，設計目標）&lt;/td>
+&lt;td>—&lt;/td>
 &lt;td>75 K&lt;/td>
+&lt;td>45 K&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;p>実測性能は，LMTでのコミッショニングののちにこのページで公開します．&lt;/p>
 &lt;h2 id="システムの概要">システムの概要&lt;/h2>
-&lt;p>FINER consists of low- and high-frequency band SIS receivers, each of which covers the ALMA&amp;rsquo;s Band 4+5 (120-210 GHz) and Band 6+7 (210-350 GHz), respectively. The front-end receivers are followed by the back-end spectrometers with wide-band and high-dispersion modes.&lt;/p>
+&lt;p>ファーストライト時のFINERは，ひとつのクライオスタットに2台のフロントエンド受信機（Band 4 MMIC受信機と広帯域Band 6+7受信機，いずれも国立天文台で開発）を搭載します．120–210 GHzを覆う広帯域Band 4+5受信機は将来の更新として計画しています．4系統のIFはスイッチでどちらかのバンドにつながるため，観測は1バンドずつ行います．2バンド同時観測は，将来の光学系の更新で実現できる見込みです．&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
@@ -81,41 +86,55 @@ width="760"
 height="343"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;strong>Figure. Block diagram.&lt;/strong>&lt;/p>
+&lt;strong>図．FINERシステム全体のブロック図（設計）．&lt;/strong>&lt;/p>
 &lt;h3 id="光学系">光学系&lt;/h3>
-&lt;p>A dual-polarization single beam from each receiver band is coupled with the LMT&amp;rsquo;s optics. The FINER warm optics is planed to have a beam-switching mechanism which allows a quick (~1 Hz) position switching for atmospheric removal. The spatial resolution (i.e. PSF size) is 7 arcsec X (frequency/200 GHz)^-1, depending on observing frequency.&lt;/p>
+&lt;p>FINERの常温光学系は，LMTのM4鏡のあとでビームを電動の鏡の組（「ペリスコープ」）で取り出します．この鏡は遠隔操作で観測位置と退避位置を切り替えられます．強度較正には黒体の負荷を備えたチョッパーを使います．高速な位置スイッチのためのスカイチョッパーは，のちの段階で導入する計画です．空間分解能（PSFの大きさ）は約 7秒角 ×（周波数 / 200 GHz）&lt;sup>−1&lt;/sup> です．&lt;/p>
 &lt;h3 id="フロントエンド受信機">フロントエンド受信機&lt;/h3>
-&lt;p>The front-end receiver exploits the high critical current density SIS mixer technology (&lt;a href="https://ui.adsabs.harvard.edu/abs/2017ITTST...7..694K/" target="_blank" rel="noopener">Kojima et al. 2017&lt;/a>, &lt;a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...640L...9K/" target="_blank" rel="noopener">2020&lt;/a>) for ALMA 2 (wideband sensitivity upgrade, WSU), which allows us to have a wide instantaneous frequency coverage.&lt;/p>
+&lt;p>フロントエンド受信機には，アルマ望遠鏡の広帯域化計画（WSU）のために開発された高臨界電流密度SISミクサ技術を用いており（&lt;a href="https://ui.adsabs.harvard.edu/abs/2017ITTST...7..694K/" target="_blank" rel="noopener">Kojima et al. 2017&lt;/a>, &lt;a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...640L...9K/" target="_blank" rel="noopener">2020&lt;/a>; &lt;a href="https://arxiv.org/abs/2606.25637" target="_blank" rel="noopener">Kang et al. 2026&lt;/a>），広い瞬時周波数帯域を実現しています．&lt;/p>
 &lt;h3 id="バックエンド分光計">バックエンド分光計&lt;/h3>
-&lt;p>FINER has two sets of digital spectrometers with different spectral resolutions and bandwidths.&lt;/p>
 &lt;ul>
-&lt;li>Wide-band spectrometers (DRS4, ELECS Inc.). Analog IF input is digitized by a set of 3-bit 20.48 GSa/s analog-to-digital converters (ADCs), each of which offers a 10.24 GHz bandwidth with a 20 MHz spectral resolution.&lt;/li>
-&lt;li>High-resolution spectrometers (XFFTS, RPG). spectroscopy is offered by the array of 2.5-GHz digital spectrometers, XFFTS (RPG).&lt;/li>
+&lt;li>&lt;strong>広帯域分光計（DRS4，エレックス工業）．&lt;/strong> 2台のDRS4筐体で，帯域10.24 GHzのベースバンド8本を3ビット・20.48 GSa/sのADCでデジタル化し，周波数分解能20 MHzのスペクトルを得ます（&lt;a href="https://doi.org/10.1117/12.3018296" target="_blank" rel="noopener">Hagimoto et al. 2024&lt;/a>）．サイドバンド分離もデジタル処理で行います．&lt;/li>
+&lt;li>&lt;strong>高分解能分光計（XFFTS，RPG）．&lt;/strong> LMTの2 mm受信機B4Rで使われてきたXFFTS（帯域2.5 GHz，分解能88 kHz）も，高分解能分光に引き続き使えます．&lt;/li>
 &lt;/ul>
-&lt;h3 id="データ処理">データ処理&lt;/h3>
+&lt;h3 id="データとソフトウェア">データとソフトウェア&lt;/h3>
+&lt;p>FINERはLMTの望遠鏡制御システムから操作します．データ形式と解析パイプラインは，LMTチームと共同で開発を進めています．&lt;/p>
 &lt;h2 id="技術文書">技術文書&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Document&lt;/th>
-&lt;th>Version&lt;/th>
-&lt;th>Download&lt;/th>
+&lt;th>文書&lt;/th>
+&lt;th>版&lt;/th>
+&lt;th>ダウンロード&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Proposal&lt;/td>
-&lt;td>1-May-2023&lt;/td>
-&lt;td>(in prep.)&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Overview&lt;/td>
-&lt;td>1-May-2023&lt;/td>
-&lt;td>(in prep.)&lt;/td>
+&lt;td>LMTへのFINER提案書（英語）&lt;/td>
+&lt;td>Version A，2023年6月15日&lt;/td>
+&lt;td>&lt;a href="https://finerreceiver.github.io/files/FINER_Proposal_verA.pdf">PDF（5 MB）&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Publications</title><link>https://finerreceiver.github.io/ja/publications/</link><pubDate>Sat, 03 Jun 2023 18:21:00 +0000</pubDate><guid>https://finerreceiver.github.io/ja/publications/</guid><description>&lt;h2 id="publications">Publications&lt;/h2>
-&lt;h2 id="presentations">Presentations&lt;/h2></description></item><item><title>FINERウェブサイトを公開しました</title><link>https://finerreceiver.github.io/ja/post/2023-04-19/</link><pubDate>Wed, 19 Apr 2023 01:30:00 +0000</pubDate><guid>https://finerreceiver.github.io/ja/post/2023-04-19/</guid><description/></item><item><title>Science</title><link>https://finerreceiver.github.io/ja/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/ja/science/</guid><description>&lt;h2 id="研究の内容--遠方銀河探査と銀河形成">研究の内容 | 遠方銀河探査と銀河形成&lt;/h2>
+&lt;/table>
+&lt;p>提案書は当初の設計と計画を記したものです．構成とスケジュールはその後このページの内容に更新されています．&lt;/p>
+&lt;h2 id="参考文献">参考文献&lt;/h2>
+&lt;p>装置論文は&lt;a href="../publications/">Publications&lt;/a>をご覧ください．&lt;/p></description></item><item><title>Publications</title><link>https://finerreceiver.github.io/ja/publications/</link><pubDate>Sat, 03 Jun 2023 18:21:00 +0000</pubDate><guid>https://finerreceiver.github.io/ja/publications/</guid><description>&lt;h2 id="instrument-papers">Instrument papers&lt;/h2>
+&lt;ul>
+&lt;li>Kang, H., Kojima, T., Sakai, T., Tamura, Y., Ishii, S., et al. 2026, &amp;ldquo;A Wideband Millimeter-wave Receiver at 210–350 GHz for LMT-FINER&amp;rdquo;, Proc. SPIE, &lt;a href="https://arxiv.org/abs/2606.25637" target="_blank" rel="noopener">arXiv:2606.25637&lt;/a>&lt;/li>
+&lt;li>Taniguchi, A., Tamura, Y., Sakai, T., Hagimoto, M., Hashimoto, T., et al. 2026, &amp;ldquo;FINER: development of the wideband millimeter-wave receiver system and preparations for first light on the Large Millimeter Telescope&amp;rdquo;, Proc. SPIE, &lt;a href="https://arxiv.org/abs/2607.03265" target="_blank" rel="noopener">arXiv:2607.03265&lt;/a>&lt;/li>
+&lt;li>Tamura, Y., Sakai, T., Kawabe, R., Kojima, T., Taniguchi, A., et al. 2024, &amp;ldquo;FINER: Far-Infrared Nebular Emission Receiver for the Large Millimeter Telescope&amp;rdquo;, Proc. SPIE, 13102, 131020G, &lt;a href="https://doi.org/10.1117/12.3017788" target="_blank" rel="noopener">doi:10.1117/12.3017788&lt;/a>, &lt;a href="https://arxiv.org/abs/2406.07975" target="_blank" rel="noopener">arXiv:2406.07975&lt;/a>&lt;/li>
+&lt;li>Kang, H., et al. 2024, &amp;ldquo;Development status of wideband millimeter-wave receivers for LMT-FINER&amp;rdquo;, Proc. SPIE, 13102, 131020J, &lt;a href="https://doi.org/10.1117/12.3018190" target="_blank" rel="noopener">doi:10.1117/12.3018190&lt;/a>, &lt;a href="https://arxiv.org/abs/2406.07974" target="_blank" rel="noopener">arXiv:2406.07974&lt;/a>&lt;/li>
+&lt;li>Hagimoto, M., Taniguchi, A., et al. 2024, &amp;ldquo;A 10.24-GHz-wide digital spectrometer array system for LMT-FINER: system design and laboratory performance verification&amp;rdquo;, Proc. SPIE, 13102, 131020V, &lt;a href="https://doi.org/10.1117/12.3018296" target="_blank" rel="noopener">doi:10.1117/12.3018296&lt;/a>, &lt;a href="https://arxiv.org/abs/2406.07978" target="_blank" rel="noopener">arXiv:2406.07978&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="b4r-the-precursor-of-finer">B4R, the precursor of FINER&lt;/h2>
+&lt;ul>
+&lt;li>Yonetsu, T., Kawabe, R., Yoshimura, Y., Taniguchi, K., Shimajiri, Y., et al. 2025, &amp;ldquo;The LMT 2 millimeter receiver system (B4R). II. Science demonstration observations toward Orion-KL/OMC-1&amp;rdquo;, &lt;a href="https://arxiv.org/abs/2511.21845" target="_blank" rel="noopener">arXiv:2511.21845&lt;/a>&lt;/li>
+&lt;li>Kawabe, R., Sakai, T., Tanaka, K., Taniguchi, A., Hatsukade, B., Tamura, Y., et al. 2025, &amp;ldquo;The LMT 2 Millimeter Receiver System (B4R). I. Overview and Results of Science Demonstration&amp;rdquo;, AJ, 170, 350, &lt;a href="https://doi.org/10.3847/1538-3881/ae12eb" target="_blank" rel="noopener">doi:10.3847/1538-3881/ae12eb&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="sis-mixer-technology">SIS mixer technology&lt;/h2>
+&lt;ul>
+&lt;li>Kojima, T., et al. 2020, A&amp;amp;A, 640, L9 (&lt;a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...640L...9K/" target="_blank" rel="noopener">ADS&lt;/a>)&lt;/li>
+&lt;li>Kojima, T., et al. 2017, IEEE Trans. Terahertz Sci. Technol., 7, 694 (&lt;a href="https://ui.adsabs.harvard.edu/abs/2017ITTST...7..694K/" target="_blank" rel="noopener">ADS&lt;/a>)&lt;/li>
+&lt;/ul></description></item><item><title>FINERウェブサイトを公開しました</title><link>https://finerreceiver.github.io/ja/post/2023-04-19/</link><pubDate>Wed, 19 Apr 2023 01:30:00 +0000</pubDate><guid>https://finerreceiver.github.io/ja/post/2023-04-19/</guid><description/></item><item><title>Science</title><link>https://finerreceiver.github.io/ja/science/</link><pubDate>Thu, 06 Apr 2023 16:26:23 +0000</pubDate><guid>https://finerreceiver.github.io/ja/science/</guid><description>&lt;h2 id="研究の内容--遠方銀河探査と銀河形成">研究の内容 | 遠方銀河探査と銀河形成&lt;/h2>
 &lt;h3 id="研究の背景---銀河の形成と宇宙再電離">研究の背景 - 銀河の形成と宇宙再電離&lt;/h3>
 &lt;p>宇宙で最初の銀河はいつどのように形成されたのでしょうか．
 この疑問は，現代の天文学における最も基本的な問題の一つに数えられます．
