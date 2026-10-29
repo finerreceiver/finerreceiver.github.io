@@ -1,6 +1,6 @@
 {
     "name": "finerreceiver.github.io",
-    "image": "klakegg/hugo:ext-ubuntu",
+    "image": "hugomods/hugo:exts-0.136.5",
     "customizations": {
         "vscode": {
             "extensions": [
