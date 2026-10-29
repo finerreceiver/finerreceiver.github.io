@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FINER</title><link>https://finerreceiver.github.io/ja/</link><atom:link href="https://finerreceiver.github.io/ja/index.xml" rel="self" type="application/rss+xml"/><description>FINER</description><generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Tue, 28 Oct 2025 09:00:00 +0000</lastBuildDate><image><url>https://finerreceiver.github.io/media/icon_hu0c51645294fa68a6522196407a84e3c7_35610_512x512_fill_box_center_3.png</url><title>FINER</title><link>https://finerreceiver.github.io/ja/</link></image><item><title>2024年版LMT/B4Rコミッショニングレポートを公開しました</title><link>https://finerreceiver.github.io/ja/post/2025-10-28/</link><pubDate>Tue, 28 Oct 2025 09:00:00 +0000</pubDate><guid>https://finerreceiver.github.io/ja/post/2025-10-28/</guid><description>&lt;p>2024年に実施したLMT/B4Rコミッショニングおよびサイエンス観測のレポートを公開しました。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FINER</title><link>https://finerreceiver.github.io/ja/</link><atom:link href="https://finerreceiver.github.io/ja/index.xml" rel="self" type="application/rss+xml"/><description>FINER</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Tue, 28 Oct 2025 09:00:00 +0000</lastBuildDate><image><url>https://finerreceiver.github.io/media/icon_hu11526619733795373807.png</url><title>FINER</title><link>https://finerreceiver.github.io/ja/</link></image><item><title>2024年版LMT/B4Rコミッショニングレポートを公開しました</title><link>https://finerreceiver.github.io/ja/post/2025-10-28/</link><pubDate>Tue, 28 Oct 2025 09:00:00 +0000</pubDate><guid>https://finerreceiver.github.io/ja/post/2025-10-28/</guid><description>&lt;p>2024年に実施したLMT/B4Rコミッショニングおよびサイエンス観測のレポートを公開しました。
 B4Rは2 mm帯の両偏波・2SBヘテロダイン受信システム（Kawabe et al. 2025 in press; Yonetsu et al. 2025 in press）で、FINER受信システムの先行機にあたります。&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://drive.google.com/file/d/1xWVjfqFPP-iTx_BXtnBgGDb1ns96nP8K" target="_blank" rel="noopener">Link to the report (Google Drive)&lt;/a>&lt;/li>
@@ -73,10 +73,10 @@ B4Rは2 mm帯の両偏波・2SBヘテロダイン受信システム（Kawabe et 
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="blockdiagram" srcset="
-/ja/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_4ca1be54eacfc8229db8d0d0c45435ac.webp 400w,
-/ja/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_b25ddc110dd476371cfb73bb356adb43.webp 760w,
-/ja/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_1200x1200_fit_q75_h2_box_3.webp 1200w"
-src="https://finerreceiver.github.io/ja/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_4ca1be54eacfc8229db8d0d0c45435ac.webp"
+/receiver/blockdiagram_hu8988208362343374286.webp 400w,
+/receiver/blockdiagram_hu12044572305927477874.webp 760w,
+/receiver/blockdiagram_hu12156292723166870635.webp 1200w"
+src="https://finerreceiver.github.io/receiver/blockdiagram_hu8988208362343374286.webp"
 width="760"
 height="343"
 loading="lazy" data-zoomable />&lt;/div>

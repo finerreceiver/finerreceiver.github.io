@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages | FINER</title><link>https://finerreceiver.github.io/page/</link><atom:link href="https://finerreceiver.github.io/page/index.xml" rel="self" type="application/rss+xml"/><description>Pages</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Jun 2023 18:21:00 +0000</lastBuildDate><image><url>https://finerreceiver.github.io/media/icon_hu0c51645294fa68a6522196407a84e3c7_35610_512x512_fill_box_center_3.png</url><title>Pages</title><link>https://finerreceiver.github.io/page/</link></image><item><title>Publications</title><link>https://finerreceiver.github.io/publications/</link><pubDate>Sat, 03 Jun 2023 18:21:00 +0000</pubDate><guid>https://finerreceiver.github.io/publications/</guid><description>&lt;h2 id="publications">Publications&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages | FINER</title><link>https://finerreceiver.github.io/page/</link><atom:link href="https://finerreceiver.github.io/page/index.xml" rel="self" type="application/rss+xml"/><description>Pages</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Jun 2023 18:21:00 +0000</lastBuildDate><image><url>https://finerreceiver.github.io/media/icon_hu11526619733795373807.png</url><title>Pages</title><link>https://finerreceiver.github.io/page/</link></image><item><title>Publications</title><link>https://finerreceiver.github.io/publications/</link><pubDate>Sat, 03 Jun 2023 18:21:00 +0000</pubDate><guid>https://finerreceiver.github.io/publications/</guid><description>&lt;h2 id="publications">Publications&lt;/h2>
 &lt;h2 id="presentations">Presentations&lt;/h2></description></item><item><title>FAQ</title><link>https://finerreceiver.github.io/faq/</link><pubDate>Thu, 06 Apr 2023 16:26:33 +0000</pubDate><guid>https://finerreceiver.github.io/faq/</guid><description>&lt;h3 id="how-can-i-use-finer">How can I use FINER?&lt;/h3>
 &lt;ul>
 &lt;li>Answer&lt;/li>
@@ -69,10 +69,10 @@
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="blockdiagram" srcset="
-/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_6bc290762f6ce6436e738eb1949b6804.webp 400w,
-/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_2a8315a46d7a25aab47f5d68c0a8dff7.webp 760w,
-/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_1200x1200_fit_q75_h2_box_3.webp 1200w"
-src="https://finerreceiver.github.io/receiver/blockdiagram_hu614f90d85be42e108fd0bc02f1ea1558_205148_6bc290762f6ce6436e738eb1949b6804.webp"
+/receiver/blockdiagram_hu8988208362343374286.webp 400w,
+/receiver/blockdiagram_hu12044572305927477874.webp 760w,
+/receiver/blockdiagram_hu12156292723166870635.webp 1200w"
+src="https://finerreceiver.github.io/receiver/blockdiagram_hu8988208362343374286.webp"
 width="760"
 height="343"
 loading="lazy" data-zoomable />&lt;/div>
