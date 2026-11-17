@@ -40,6 +40,14 @@ design:
 - Hideo Sagawa (Kyoto Sangyo University)
 - Kotomi Taniguchi (NAOJ)
 - Hideki Umehata (Nagoya University)
+## Students
+- Sho Fujisawa (Nagoya University)
+- Masato Kato (Nagoya University)
+- Akinobu Miyake (Nagoya University)
+- Naohiro Nakata (The University of Electro-Communications)
+- Aina Sato (Nagoya University)
+## Former Members
+- Kianhong Lee (Nagoya University, until June 2026)
 ## Contact
 - Yoichi Tamura
   - Department of Physics, Nagoya University

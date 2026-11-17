@@ -41,6 +41,14 @@ design:
 - Hideo Sagawa (Universidad Kyoto Sangyo)
 - Kotomi Taniguchi (NAOJ)
 - Hideki Umehata (Universidad de Nagoya)
+## Estudiantes
+- Sho Fujisawa (Universidad de Nagoya)
+- Masato Kato (Universidad de Nagoya)
+- Akinobu Miyake (Universidad de Nagoya)
+- Naohiro Nakata (Universidad de Electrocomunicaciones)
+- Aina Sato (Universidad de Nagoya)
+## Antiguos miembros
+- Kianhong Lee (Universidad de Nagoya, hasta junio de 2026)
 ## Contacto
 Si le interesa el proyecto FINER, no dude en escribirnos.
 - Yoichi Tamura
