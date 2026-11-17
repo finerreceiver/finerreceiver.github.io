@@ -27,23 +27,21 @@ design:
 - 中島 拓 （公立諏訪東京理科大学）
 - 萩本 将都 （名古屋大学）
 
-## 科学評価チーム
-- [河野 孝太郎](http://www.ioa.s.u-tokyo.ac.jp/~kkohno/) （東京大学）
-- 谷口 琴美 （国立天文台）
-- 辻田 旭慶 （東京大学）
-- 吉村 勇紀 （東京大学）
-- 米津 鉄平 （大阪公立大学）
-
 ## 科学検討チーム
+- 飯野 孝浩 （山梨大学）
 - [井上 昭雄](http://www.obsap.phys.waseda.ac.jp/) （早稲田大学）
 - 梅畑 豪紀 （名古屋大学）
+- [河野 孝太郎](http://www.ioa.s.u-tokyo.ac.jp/~kkohno/) （東京大学）
+- 佐川 英夫 （京都産業大学）
+- 谷口 琴美 （国立天文台）
 - [橋本 拓也](http://thashimoto.weebly.com/) （筑波大学）
 - 廿日出 文洋 （国立天文台）
 - [トム バックス （BAKX, Tom J.L.C.）](https://tombak.xyz/) （チャルマース工科大学）
-- [播金 優一](https://sites.google.com/view/yuichi-harikane/) （東京大学）
+- [播金 優一](https://sites.google.com/view/yuichi-harikane/) （京都大学）
 - 札本 佳伸 （千葉大学）
+- 前澤 裕之 （大阪公立大学）
 - 松田 有一 （国立天文台）
-- 馬渡 健 （筑波大学）
+- 馬渡 健 （筑波技術大学）
 
 ## お問い合わせ
 FINERプロジェクトにご興味のある方は，下記までお気軽にご連絡ください．
