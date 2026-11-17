@@ -14,39 +14,39 @@ design:
 - [酒井 剛](http://www.t-sakai.cei.uec.ac.jp/) （電気通信大学）
 
 ## 開発チーム
-- 石井 峻 （国立天文台）
-- 大島 泰 （国立天文台）
+- [石井 峻](https://researchmap.jp/sishii) （国立天文台）
+- [大島 泰](https://www2.nao.ac.jp/~open-info/reslist/detail/OSHIMA_Tai/OSHIMA_Tai.htm) （国立天文台）
 - 加藤 大翔 （名古屋大学）
-- 川邊 良平 （国立天文台）
+- [川邊 良平](https://www2.nao.ac.jp/~open-info/reslist/detail/KAWABE_Ryohei/KAWABE_Ryohei.htm) （国立天文台）
 - 康 浩然 （KANG, Haoran） （国立天文台）
 - 小嶋 崇文 （国立天文台）
 - 佐藤 愛奈 （名古屋大学）
-- 単 文磊 （SHAN, Wenlei） （国立天文台）
+- [単 文磊](https://www2.nao.ac.jp/~open-info/reslist/detail/SHAN_Wenlei/SHAN_Wenlei.htm) （SHAN, Wenlei） （国立天文台）
 - [竹腰 達哉](https://www.kitami-it.ac.jp/about/academicstaff/1346/) （北見工業大学）
-- 田中 邦彦 （慶應義塾大学）
+- [田中 邦彦](https://www.keio.ac.jp/en/researcher/100011598/) （慶應義塾大学）
 - [谷口 暁星](https://astropengu.in/) （北見工業大学）
 - 中島 拓 （公立諏訪東京理科大学）
 - 中田 直宏 （電気通信大学）
-- 萩本 将都 （名古屋大学）
+- [萩本 将都](https://profs.provost.nagoya-u.ac.jp/html/100014271_en.html) （名古屋大学）
 - 藤澤 翔 （名古屋大学）
-- 増井 翔 （国立天文台）
+- [増井 翔](https://www2.nao.ac.jp/~open-info/reslist/detail/MASUI_Sho/MASUI_Sho.htm) （国立天文台）
 - 三宅 明伸 （名古屋大学）
 
 ## 科学検討チーム
-- 飯野 孝浩 （山梨大学）
+- [飯野 孝浩](https://sites.google.com/site/iinotakahiro1980) （山梨大学）
 - [井上 昭雄](http://www.obsap.phys.waseda.ac.jp/) （早稲田大学）
-- 梅畑 豪紀 （名古屋大学）
+- [梅畑 豪紀](https://hidekiumehata.github.io/) （名古屋大学）
 - [河野 孝太郎](http://www.ioa.s.u-tokyo.ac.jp/~kkohno/) （東京大学）
 - 佐川 英夫 （京都産業大学）
-- 谷口 琴美 （国立天文台）
-- [橋本 拓也](http://thashimoto.weebly.com/) （筑波大学）
-- 廿日出 文洋 （国立天文台）
+- [谷口 琴美](https://www2.nao.ac.jp/~open-info/reslist/detail/TANIGUCHI_Kotomi/TANIGUCHI_Kotomi.htm) （国立天文台）
+- [橋本 拓也](https://tiar.centers.tsukuba.ac.jp/en/fellow/1912/) （筑波大学）
+- [廿日出 文洋](https://sites.google.com/view/hatsukade) （国立天文台）
 - [トム バックス （BAKX, Tom J.L.C.）](https://tombak.xyz/) （チャルマース工科大学）
 - [播金 優一](https://sites.google.com/view/yuichi-harikane/) （京都大学）
-- 札本 佳伸 （千葉大学）
-- 前澤 裕之 （大阪公立大学）
+- [札本 佳伸](https://yfudamoto.github.io/) （千葉大学）
+- [前澤 裕之](https://kyoiku-kenkyudb.omu.ac.jp/html/100002004_ja.html) （大阪公立大学）
 - 松田 有一 （国立天文台）
-- 馬渡 健 （筑波技術大学）
+- [馬渡 健](https://researchmap.jp/kenmawatari) （筑波技術大学）
 
 ## お問い合わせ
 FINERプロジェクトにご興味のある方は，下記までお気軽にご連絡ください．
