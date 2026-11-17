@@ -29,18 +29,18 @@ design:
 ## Equipo científico
 - Tom J.L.C. Bakx (Universidad Tecnológica de Chalmers)
 - Yoshinobu Fudamoto (Universidad de Chiba)
-- Yuichi Harikane (Universidad de Tokio)
+- Yuichi Harikane (Universidad de Kioto)
 - Takuya Hashimoto (Universidad de Tsukuba)
 - Bunyo Hatsukade (NAOJ)
+- Takahiro Iino (Universidad de Yamanashi)
 - Akio K. Inoue (Universidad de Waseda)
 - Kotaro Kohno (Universidad de Tokio)
+- Hiroyuki Maezawa (Universidad Metropolitana de Osaka)
 - Yuichi Matsuda (NAOJ)
-- Ken Mawatari (Universidad de Tsukuba)
+- Ken Mawatari (Universidad Tecnológica de Tsukuba)
+- Hideo Sagawa (Universidad Kyoto Sangyo)
 - Kotomi Taniguchi (NAOJ)
-- Akiyoshi Tsujita (Universidad de Tokio)
 - Hideki Umehata (Universidad de Nagoya)
-- Teppei Yonetsu (Universidad Metropolitana de Osaka)
-- Yuki Yoshimura (Universidad de Tokio)
 ## Contacto
 Si le interesa el proyecto FINER, no dude en escribirnos.
 - Yoichi Tamura

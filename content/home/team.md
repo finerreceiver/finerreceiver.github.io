@@ -28,18 +28,18 @@ design:
 ## Science Team
 - Tom J.L.C. Bakx (Chalmers University of Technology)
 - Yoshinobu Fudamoto (Chiba University)
-- Yuichi Harikane (The University of Tokyo)
+- Yuichi Harikane (Kyoto University)
 - Takuya Hashimoto (University of Tsukuba)
 - Bunyo Hatsukade (NAOJ)
+- Takahiro Iino (University of Yamanashi)
 - Akio K. Inoue (Waseda University)
 - Kotaro Kohno (The University of Tokyo)
+- Hiroyuki Maezawa (Osaka Metropolitan University)
 - Yuichi Matsuda (NAOJ)
-- Ken Mawatari (University of Tsukuba)
+- Ken Mawatari (Tsukuba University of Technology)
+- Hideo Sagawa (Kyoto Sangyo University)
 - Kotomi Taniguchi (NAOJ)
-- Akiyoshi Tsujita (The University of Tokyo)
 - Hideki Umehata (Nagoya University)
-- Teppei Yonetsu (Osaka Metropolitan University)
-- Yuki Yoshimura (The University of Tokyo)
 ## Contact
 - Yoichi Tamura
   - Department of Physics, Nagoya University
