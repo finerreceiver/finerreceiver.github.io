@@ -13,14 +13,19 @@ design:
 - Yoichi Tamura (Nagoya University)
 - Takeshi Sakai (The University of Electro-Communications)
 ## Development Team
+- Sho Fujisawa (Nagoya University)
 - Masato Hagimoto (Nagoya University)
 - Shun Ishii (NAOJ)
 - Haoran Kang (NAOJ)
+- Masato Kato (Nagoya University)
 - Ryohei Kawabe (NAOJ)
 - Takafumi Kojima (NAOJ)
 - Sho Masui (NAOJ)
+- Akinobu Miyake (Nagoya University)
 - Tac Nakajima (Suwa University of Science)
+- Naohiro Nakata (The University of Electro-Communications)
 - Tai Oshima (NAOJ)
+- Aina Sato (Nagoya University)
 - Wenlei Shan (NAOJ)
 - Tatsuya Takekoshi (Kitami Institute of Technology)
 - Kunihiko Tanaka (Keio University)
@@ -40,14 +45,6 @@ design:
 - Hideo Sagawa (Kyoto Sangyo University)
 - Kotomi Taniguchi (NAOJ)
 - Hideki Umehata (Nagoya University)
-## Students
-- Sho Fujisawa (Nagoya University)
-- Masato Kato (Nagoya University)
-- Akinobu Miyake (Nagoya University)
-- Naohiro Nakata (The University of Electro-Communications)
-- Aina Sato (Nagoya University)
-## Former Members
-- Kianhong Lee (Nagoya University, until June 2026)
 ## Contact
 - Yoichi Tamura
   - Department of Physics, Nagoya University

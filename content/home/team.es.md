@@ -14,14 +14,19 @@ design:
 - Yoichi Tamura (Universidad de Nagoya)
 - Takeshi Sakai (Universidad de Electrocomunicaciones)
 ## Equipo de desarrollo
+- Sho Fujisawa (Universidad de Nagoya)
 - Masato Hagimoto (Universidad de Nagoya)
 - Shun Ishii (NAOJ)
 - Haoran Kang (NAOJ)
+- Masato Kato (Universidad de Nagoya)
 - Ryohei Kawabe (NAOJ)
 - Takafumi Kojima (NAOJ)
 - Sho Masui (NAOJ)
+- Akinobu Miyake (Universidad de Nagoya)
 - Tac Nakajima (Universidad de Ciencias de Suwa)
+- Naohiro Nakata (Universidad de Electrocomunicaciones)
 - Tai Oshima (NAOJ)
+- Aina Sato (Universidad de Nagoya)
 - Wenlei Shan (NAOJ)
 - Tatsuya Takekoshi (Instituto Tecnológico de Kitami)
 - Kunihiko Tanaka (Universidad de Keio)
@@ -41,14 +46,6 @@ design:
 - Hideo Sagawa (Universidad Kyoto Sangyo)
 - Kotomi Taniguchi (NAOJ)
 - Hideki Umehata (Universidad de Nagoya)
-## Estudiantes
-- Sho Fujisawa (Universidad de Nagoya)
-- Masato Kato (Universidad de Nagoya)
-- Akinobu Miyake (Universidad de Nagoya)
-- Naohiro Nakata (Universidad de Electrocomunicaciones)
-- Aina Sato (Universidad de Nagoya)
-## Antiguos miembros
-- Kianhong Lee (Universidad de Nagoya, hasta junio de 2026)
 ## Contacto
 Si le interesa el proyecto FINER, no dude en escribirnos.
 - Yoichi Tamura
